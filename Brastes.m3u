@@ -1,6 +1,6 @@
 #EXTM3U
 #################### Agroecuario ######################
-Testeo para cosas agropecuarias
+Testeo para cosas agropecuarias*
 Propiedad de Bolbrasor 
 #################### Evangelico ######################
 Testeo para cosas Evangelica
@@ -363,12 +363,10 @@ http://lxls.mx:80/euclidescabral/998934917/331953
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 2
-http://159.89.238.35:8000/play/a0bf/index.m3u8
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304335
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 3
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vsezg
-or
-http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/47441
+http://159.89.238.35:8000/play/a0bf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 1 HD
 http://186.121.206.197/live/daniel/index.m3u8
@@ -415,9 +413,6 @@ https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="BOLIVIA",Bolivia TV 7.2
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhnwzocsG-4YSIUGScNkjx7To.png" group-title="BOLIVIA",DTV
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png" group-title="BOLIVIA",MEGAvision
 http://streamingtv.vip:8080/Tevrvvf/Nwbevfvvf/160796
@@ -667,8 +662,6 @@ http://nubiatv.live:80/zero514/zero514/43377.m3u8
 http://nubiatv.live:80/zero514/zero514/43366.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 6
 http://nubiatv.live:80/zero514/zero514/43376.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 7
-http://vip.shortgod.com/viva/tv5.php?id=12008
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-Clipart-Background.png" group-title="24/7",Tom Y Jerry
 http://nubiatv.live:80/zero514/zero514/43396.m3u8
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/12/Woody-woodpecker.png" group-title="24/7",Pajaro Loco
@@ -687,12 +680,12 @@ or
 http://nubiatv.live:80/zero514/zero514/43347.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON 2
 http://nubiatv.live:80/zero514/zero514/43348.m3u8
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2016/03/MBOpEd_PIC1.png" group-title="24/7",Casadores de Mitos
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126092
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" group-title="24/7",EL CHAVO DEL 8
 http://nubiatv.live:80/zero514/zero514/43430.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" group-title="24/7",EL CHAVO DE 8
-http://vip.shortgod.com/viva/tv5.php?id=38712
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xswdnRV/Sin-t-tulo-1.png" group-title="24/7",CORAJE EL PERRO COBARDE
-http://vip.shortgod.com/viva/tv5.php?id=11067
+http://flash.shortgod.com/bacle2023/tv1.php?id=519
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FhLJMz/Sin-t-tulo-1.png" group-title="24/7",FUTURAMA
 http://nubiatv.live:80/zero514/zero514/43342.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL
@@ -714,15 +707,19 @@ http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37825
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130505181423/doblaje/es/images/1/10/Puerquisimo_chancho.png" group-title="24/7",La Casa de los dibujos 2
 http://51.222.108.195:25461/0014497A076E/XtrmWin69/14296
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2/Digimon-Logo-PNG-Free-Download.png" group-title="24/7",Digimon
-http://vip.shortgod.com/viva/tv5.php?id=11085
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131668
 #EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8FGtm7y1PDiY4IllKtYWY8.png" group-title="24/7",Ricky Y Morty
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37850
 #EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8FGtm7y1PDiY4IllKtYWY8.png" group-title="24/7",Ricky Y Morty 2
 http://nubiatv.live:80/zero514/zero514/43385.m3u8
+or
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131688
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TD73SK/Sin-t-tulo-1.png" group-title="24/7",CABALLEROS DEL ZODIACO
 http://nubiatv.live:80/zero514/zero514/43323.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/22/467/png-transparent-shuffle-yugi-mutou-yami-yugi-yu-gi-oh-music-yugioh-yami-yugi-fictional-character-action-figure-yugioh.png" group-title="24/7",Yu-gi o
-http://vip.shortgod.com/viva/tv5.php?id=11992
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/22/467/png-transparent-shuffle-yugi-mutou-yami-yugi-yu-gi-oh-music-yugioh-yami-yugi-fictional-character-action-figure-yugioh.png" group-title="24/7",Yu-gi oh
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
+or
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131683
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MNMLczJ/Sin-t-tulo-1.png" group-title="24/7",SOUTH PARK
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37754
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MNMLczJ/Sin-t-tulo-1.png" group-title="24/7",SOUTH PARK 2
@@ -762,7 +759,7 @@ http://nubiatv.live:80/zero514/zero514/44176.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/548-5481824_codename-kids-next-door.png" group-title="24/7",Los chicos del barrio
 http://nubiatv.live:80/zero514/zero514/190372.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/273-2735910_alf-logo-png-download-alf-logo-transparent-png.png" group-title="24/7",Alf
-http://vip.shortgod.com/viva/tv5.php?id=2321
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/44721.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/930/894/png-transparent-a-game-of-thrones-logo-emblem-font-game-of-trones-game-emblem-text-thumbnail.png" group-title="24/7",Juego de tronos
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/63763
 
@@ -786,4 +783,3 @@ http://nubiatv.live:80/zero514/zero514/194525.m3u8
 http://nubiatv.live:80/zero514/zero514/66753.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7GKncLG/Sin-t-tulo-1.png" group-title="24/7",Bang
 http://nubiatv.live:80/zero514/zero514/66752.m3u8
-###############################nada######################
