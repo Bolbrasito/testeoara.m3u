@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor *
+Propiedad de Bolbrasor
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -412,7 +412,13 @@ http://nubiatv.live:80/zero514/zero514/360004.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="BOLIVIA",Bolivia TV 7.2
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="BOLIVIA",Bolivia TV 7.3
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="BOLIVIA",Bolivia TV 7.4
+http://tv.nousiptv.com:8080/diegonandez/801342/54732
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png" group-title="BOLIVIA",MEGAvision
 http://streamingtv.vip:8080/Tevrvvf/Nwbevfvvf/160796
