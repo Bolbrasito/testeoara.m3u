@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor*
+Propiedad de Bolbrasor
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -30,7 +30,7 @@ Propiedad de Bolbrasor
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
 #################### GLaBa TV ######################
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png" group-title="BRASIL",Tv Globo 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png" group-title="BRASIL",Tv Globo 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png" group-title="BRASIL",Tv Globo 2
@@ -83,10 +83,10 @@ https://epg.pw/stream/007d5421cd4b77f5b68f8ad59f2bc6b61a3587beea80d7dbb365d7b4b1
 
 #################### Muxtus ########################
 #EXTINF:-1 tvg-chno="8" tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="BRASIL",GNT
-http://acsc.cc:80/1Lucilim/1Luci2532/90638.ts
+http://cdn.uptvx.live:80/Sandro6453/353830256453/54624
 
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="BRASIL",GNT 2
-http://cdn.uptvx.live:80/Sandro6453/353830256453/54624
+http://acsc.cc:80/1Lucilim/1Luci2532/90638.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Jovem_Pan_News_logo_2018.png/800px-Jovem_Pan_News_logo_2018.png" group-title="BRASIL",Joven Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -103,10 +103,10 @@ or
 http://lxls.mx:80/euclidescabral/998934917/70888
 
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://i.imgur.com/IFlHLkw.png" group-title="BRASIL",Sabor y arte
-http://acsc.cc:80/1Lucilim/1Luci2532/112013.ts
+http://cdn.uptvx.live:80/Sandro6453/353830256453/52340
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFlHLkw.png" group-title="BRASIL",Sabor y arte 2
-http://cdn.uptvx.live:80/Sandro6453/353830256453/52340
+http://acsc.cc:80/1Lucilim/1Luci2532/112013.ts
 or
 http://7go.xyz:8080/555197362027/qysax5dw/165640
 or
@@ -128,7 +128,7 @@ https://epg.pw/stream/0775e809859b3e82feab51693a7df9bd3fcb5d5306ee79aa4399d05208
 http://api.magiaiptv.com/live/800599/986576/m2_jtvxHZze6qSkg3Ku4cfUorCs_720p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="BRASIL",Food Network 2
-http://acsc.cc:80/1Lucilim/1Luci2532/103501.ts
+http://cdn.uptvx.live:80/Sandro6453/353830256453/16218
 
 #EXTINF:-1 tvg-logo="https://www.frogx3.com/wp-content/uploads/2016/10/twitter-cocina-e1477313916400.jpg" group-title="BRASIL",Pluto TV Cocina
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
@@ -211,16 +211,16 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://imgur.com/3inGYNL.png" group-title="BRASIL",Bis
-http://acsc.cc:80/1Lucilim/1Luci2532/103527.ts
+http://cdn.uptvx.live:80/Sandro6453/353830256453/17114
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="BRASIL",Multi Show
-http://acsc.cc:80/1Lucilim/1Luci2532/131138.ts
+http://cdn.uptvx.live:80/Sandro6453/353830256453/38322
 
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/49dae4143eb9fefca41088d36cc5b4a1.png" group-title="BRASIL",Canal do Boi
 http://api.magiaiptv.com/live/800338/585505/m2_DmneVlvArMP5Xom_720p
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1150/1150353.png" group-title="BRASIL",Emprender
-http://acsc.cc:80/1Lucilim/1Luci2532/178511.ts
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/49dae4143eb9fefca41088d36cc5b4a1.png" group-title="BRASIL",Canal do Boi 2
+http://cdn.uptvx.live:80/Sandro6453/353830256453/50853
 
 #EXTINF:-1 tvg-logo="https://brasilmaisagro.com.br/img/logo.png" group-title="BRASIL",Agro Brasil
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -256,7 +256,7 @@ http://lxls.mx:80/euclidescabral/998934917/62826
 http://jslinkdns.xyz:80/deividcarvalho020124/nux5yp89wil/470789
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="BRASIL",Band Sport
-http://acsc.cc:80/1Lucilim/1Luci2532/103525.ts
+http://cdn.uptvx.live:80/Sandro6453/353830256453/16113
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Novatvbrasil.jpg" group-title="BRASIL",Tv Brasil
 http://lxls.mx:80/euclidescabral/998934917/48975
@@ -446,8 +446,32 @@ https://marine2.miplay.cl/c13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_72b6278e3aeaa23d9e5500859a44dfea1653937354.png" group-title="BOLIVIA",Canal 13 prime
 https://unlimited1-us.dps.live/13p/13p.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N93tz3l.png" group-title="BOLIVIA",E 1
+http://nubiatv.live:80/live/Pedro2/Febrero/42543.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SQDWZwU.png" group-title="BOLIVIA",E 2
+http://nubiatv.live:80/live/Pedro2/Febrero/13740.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/f4GfoEV.png" group-title="BOLIVIA",E 3
+http://nubiatv.live:80/live/Pedro2/Febrero/13749.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vmTjTo7.png" group-title="BOLIVIA",E 4
+http://nubiatv.live:80/live/Pedro2/Febrero/246939.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKPo0E4.png" group-title="BOLIVIA",F 1
+http://nubiatv.live:80/live/Pedro2/Febrero/13752.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSQ4pP0.png" group-title="BOLIVIA",F 2
+http://nubiatv.live:80/live/Pedro2/Febrero/13753.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lXJHzEW.png" group-title="BOLIVIA",F 3
+http://nubiatv.live:80/live/Pedro2/Febrero/13750.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="BOLIVIA",Tyc
-http://45.232.177.17:8000/play/a008
+http://nubiatv.live:80/live/Pedro2/Febrero/18241.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="BOLIVIA",D 1
+http://nubiatv.live:80/live/Pedro2/Febrero/44682.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="BOLIVIA",Test 1
 http://nubiatv.live:80/live/Pedro2/Febrero/631651.m3u8
