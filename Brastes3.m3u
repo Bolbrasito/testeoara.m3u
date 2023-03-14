@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor
+Propiedad de Bolbrasor*
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -473,22 +473,18 @@ http://nubiatv.live:80/live/Pedro2/Febrero/18241.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="BOLIVIA",D 1
 http://nubiatv.live:80/live/Pedro2/Febrero/44682.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="BOLIVIA",Test 1
-http://nubiatv.live:80/live/Pedro2/Febrero/631651.m3u8
-or
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155634
+#EXTINF:-1 tvg-logo="https://imgur.com/a/aw9OFoe" group-title="BOLIVIA",Test 1
+http://nubiatv.live:80/live/zero514/zero514/631651.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="BOLIVIA",Test 2
-http://nubiatv.live:80/live/Pedro2/Febrero/653263.m3u8
-or
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155629
+#EXTINF:-1 tvg-logo="https://imgur.com/a/aw9OFoe" group-title="BOLIVIA",Test 2
+http://nubiatv.live:80/live/zero514/zero514/653263.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="BOLIVIA",Test 3
-http://nubiatv.live:80/live/Pedro2/Febrero/653264.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/aw9OFoe" group-title="BOLIVIA",Test 3
+http://nubiatv.live:80/live/zero514/zero514/18236.ts
 or
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155630
 or
-http://nubiatv.live:80/zero514/zero514/18236.m3u8
+http://nubiatv.live:80/live/Pedro2/Febrero/18236.m3u8
 
 #################### Pluto ########################
 
