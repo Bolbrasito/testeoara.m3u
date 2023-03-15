@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor
+Propiedad de Bolbrasor*
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -414,13 +414,13 @@ http://nubiatv.live:80/live/zero514/zero514/18241.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhQGzLW.png" group-title="BOLIVIA",D 1
 http://nubiatv.live:80/live/zero514/zero514/44682.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/aw9OFoe" group-title="BOLIVIA",Test 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="BOLIVIA",Test 1
 http://nubiatv.live:80/live/zero514/zero514/631651.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/aw9OFoe" group-title="BOLIVIA",Test 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="BOLIVIA",Test 2
 http://nubiatv.live:80/live/zero514/zero514/653263.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/aw9OFoe" group-title="BOLIVIA",Test 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="BOLIVIA",Test 3
 http://nubiatv.live:80/live/zero514/zero514/18236.ts
 or
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155630
