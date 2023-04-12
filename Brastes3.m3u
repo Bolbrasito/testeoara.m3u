@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasorzxczxczxc12351
+Propiedad de Bolbrasor
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -34,59 +34,57 @@ Propiedad de Bolbrasor
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 2
-http://168.205.87.198:8555/live/shirley/123456/70.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 3
 http://cdn.uptvx.live:80/Sandro6453/353830256453/15398
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 3
+https://epg.pw/stream/495b5b22bfe6b88272bb655ceeda5431b653c19934e429d6902ef797aa140597.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 4
-https://epg.pw/stream/c1ba9488c3f3256d3d9975f3207271558c1254ed7b0af419764a9b85f28fb414.ctv
+http://168.205.87.198:8555/live/shirley/123456/70.ts
 
 #################### SaBaTa ##########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 1
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415707
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 2
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 2
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 3
+https://epg.pw/stream/6e90728d4521a6f94a6df5044b6336cc404f044ee9edc8ee035cbc45b6756cd9.m3u8
 
 #################### RaCaRD #########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 1
-http://suatv.fun:80/canaisp2p/mudar@2021j45/416571
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 2
-https://epg.pw/stream/2ff657b5fa16eb7cd044bc969badf961ae919735295d059774ddf60fb2c4edd1.ctv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 3
 http://cdn.uptvx.live:80/Sandro6453/353830256453/16410
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 2
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 3
+http://xx.scorpionplay.tech:80/438589028718/339972854846/1784583
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 4
+https://epg.pw/stream/d6b627794349c7dd5ea129e16b8db9f79950c01012a1f2304c193380b3838b37.ctv
 
 #################### BoNDo #########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWkwg41.png" group-title="BRASIL",BAND 1
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415245
+http://cdn.uptvx.live:80/Sandro6453/353830256453/43351
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWkwg41.png" group-title="BRASIL",BAND 2
-http://cdn.uptvx.live:80/Sandro6453/353830256453/43351
-or
-https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
+http://xx.scorpionplay.tech:80/438589028718/339972854846/1876404
 
 #################### Rada TV #######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 1
 http://cdn.uptvx.live:80/Sandro6453/353830256453/16427
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 2
-http://suatv.fun:80/live/canaisp2p/mudar@2021j45/415289.ts
+http://xx.scorpionplay.tech:80/438589028718/339972854846/1876473
 
 #################### Muxtus ########################
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="BRASIL",GNT
 http://cdn.uptvx.live:80/Sandro6453/353830256453/54624
 
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="BRASIL",GNT 2
-http://suatv.fun:80/live/canaisp2p/mudar@2021j45/415659.ts
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/8856
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3omDUq.png" group-title="BRASIL",Joven Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -98,29 +96,31 @@ http://cdn.uptvx.live:80/Sandro6453/353830256453/52338
 http://cdn.uptvx.live:80/Sandro6453/353830256453/52340
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFlHLkw.png" group-title="BRASIL",Sabor y arte 2
-http://acsc.cc:80/1Lucilim/1Luci2532/112013.ts
-or
-http://7go.xyz:8080/555197362027/qysax5dw/165640
-or
 http://splaytv.io:80/Marcelo984258235/hbgy45df/169527
 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="BRASIL",El gourmet 1
 http://45.160.15.130:2909/play/177
 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="BRASIL",El gourmet 2
-http://soberon.us:25461/m0nk/n3w/88
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/282607
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina
-https://epg.pw/stream/0775e809859b3e82feab51693a7df9bd3fcb5d5306ee79aa4399d052088d111f.ctv
+
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina 2
-https://epg.pw/stream/394ef89c497c6197a88beb98764390055d60813b826311307ed42c9b37bedd25.ctv
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1606
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="BRASIL",Food Network
 http://cdn.uptvx.live:80/Sandro6453/353830256453/16218
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="BRASIL",Food Network 2
-http://suatv.fun:80/live/canaisp2p/mudar@2021j45/415655.ts
+http://xx.scorpionplay.tech:80/438589028718/339972854846/1784714
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="BRASIL", Tastemade
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/99-990552_cozinha-divertida-logo-de-cocina-divertida.png", group-title="BRASIL", Cocina Divertida
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/294429
 
 #EXTINF:-1 tvg-logo="https://www.frogx3.com/wp-content/uploads/2016/10/twitter-cocina-e1477313916400.jpg" group-title="BRASIL",Pluto TV Cocina
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
@@ -134,59 +134,65 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009
 #EXTINF:-1 tvg-logo="https://picfiles.alphacoders.com/157/157111.png" group-title="BRASIL",Hell's Kitchen
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="BRASIL", COCINA AHORA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=bf79029d-ac3a-11eb-878e-0242ac110002&sid=bf79029d-ac3a-11eb-878e-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://mundosabor.ar/wp-content/uploads/2020/10/logo_web_fondoblanco.png", group-title="BRASIL", Mundo del Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png", group-title="BRASIL", Vix Cocina
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://imgur.com/3inGYNL.png" group-title="BRASIL",Bis
+http://cdn.uptvx.live:80/Sandro6453/353830256453/17114
+
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="BRASIL",Multi Show
+http://cdn.uptvx.live:80/Sandro6453/353830256453/38322
+
 #EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7IgUZ7-K9L8SVwdcSWvIL8.png" group-title="BRASIL",Mas ChiC
-http://soberon.us:25461/m0nk/n3w/127
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/282630
 
 #EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn7IgUZ7-K9L8SVwdcSWvIL8.png" group-title="BRASIL",Mas ChiC 2
 http://190.186.159.19:58001/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HTgZyXl.png" group-title="BRASIL", NatGeo 
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415403
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HTgZyXl.png" group-title="BRASIL", NatGeo 2
 http://cdn.uptvx.live:80/Sandro6453/353830256453/16356
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjWZoCG.png" group-title="BRASIL",A&E
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415547
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HTgZyXl.png" group-title="BRASIL", NatGeo 2
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1818
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/CurtaRelevante.png" group-title="BRASIL",Curta10
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415646
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjWZoCG.png" group-title="BRASIL",A&E
+http://xx.scorpionplay.tech:80/438589028718/339972854846/2191649
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM9jwRR.png" group-title="BRASIL",Discovery Chanel
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415374
+http://xx.scorpionplay.tech:80/438589028718/339972854846/623169
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="BRASIL",Home & Held
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415415
+http://181.189.243.254:8000/play/a0ss/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="BRASIL",True Tv
 http://181.176.148.142:8000/play/a030
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="BRASIL",True Tv 2
-http://streamingtv.vip:8080/Tevrvvf/Nwbevfvvf/114382
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASIL",Globo New
+http://cdn.uptvx.live:80/Sandro6453/353830256453/16262
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/602px-Record_News_%28color%29.svg.png" group-title="BRASIL",Record News
+http://cdn.uptvx.live:80/Sandro6453/353830256453/16406
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="BRASIL",Band News
+http://cdn.uptvx.live:80/Sandro6453/353830256453/17113
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="BRASIL",Band Sport
+http://cdn.uptvx.live:80/Sandro6453/353830256453/16113
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IX21Fuj.png" group-title="BRASIL",Viva
 https://tinyurl.com/FORMIGATV1120/31631.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="BRASIL",TLC
-http://cdn.uptvx.live:80/Sandro6453/353830256453/17130http://cdn.uptvx.live:80/Sandro6453/353830256453/17130
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="BRASIL",Lifetime
 http://cdn.uptvx.live:80/Sandro6453/353830256453/16331
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/15/632/png-clipart-e-television-channel-entertainment-logo-channel-miscellaneous-television.png" group-title="BRASIL",E!
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415652
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/7782
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/10/980/png-transparent-canal-off-brazil-logo-globosat-television-channel-40-off-television-text-trademark.png" group-title="BRASIL", Off
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415541
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRASIL",Tv Gazeta
+http://168.205.87.198:8555/live/shirley/123456/69.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/%C4%B0ctimai_TV_%282019-2020%29.png" group-title="BRASIL",Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -197,16 +203,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcaldeirao.com.br/wp-content/uploads/2020/03/logo-tv.png" group-title="BRASIL",Tv calderirao
 http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://imgur.com/3inGYNL.png" group-title="BRASIL",Bis
-http://cdn.uptvx.live:80/Sandro6453/353830256453/17114
-
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="BRASIL",Multi Show
-http://cdn.uptvx.live:80/Sandro6453/353830256453/38322
-
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/49dae4143eb9fefca41088d36cc5b4a1.png" group-title="BRASIL",Canal do Boi
-http://api.magiaiptv.com/live/800338/585505/m2_DmneVlvArMP5Xom_720p
-
-#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/49dae4143eb9fefca41088d36cc5b4a1.png" group-title="BRASIL",Canal do Boi 2
 http://cdn.uptvx.live:80/Sandro6453/353830256453/50853
 
 #EXTINF:-1 tvg-logo="https://brasilmaisagro.com.br/img/logo.png" group-title="BRASIL",Agro Brasil
@@ -221,26 +218,11 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" group-title="BRASIL",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRASIL",Tv Gazeta
-http://168.205.87.198:8555/live/shirley/123456/69.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="BRASIL",TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180426/whe/kisspng-ytv-high-definition-television-television-channel-youth-logo-5ae18cba49d3a2.4243678615247310663024.jpg" group-title="BRASIL",TV Juventud
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASIL",Globo New
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16262
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/602px-Record_News_%28color%29.svg.png" group-title="BRASIL",Record News
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16406
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="BRASIL",Band News
-http://cdn.uptvx.live:80/Sandro6453/353830256453/17113
-
-#EXTINF:-1 tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="BRASIL",Band Sport
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16113
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/468/981/png-transparent-1970s-1960s-1950s-1980s-retro-style-retro-food-holidays-text.png" group-title="BRASIL",Retrô
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?KeltecMPIPTV
@@ -259,9 +241,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/eparana.png" group-title="BRASIL", eParaná
 http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1200px-Canal_Futura.png" group-title="BRASIL", Canal Futura HD
-https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Totalmente_Demais_screenshot.png" group-title="BRASIL",Tv Que Demais
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist.m3u8
@@ -284,10 +263,10 @@ https://v1.tustreaming.cl/sabortv/index.m3u8?TecnoPlaylist
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 2
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304335
+http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/215948.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 3
-http://hidra.live:80/Diego/Diego/304335
+http://tv.fullytv.com:8080/anacaraher/123456/52619
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 1 HD
 http://186.121.206.197/live/daniel/index.m3u8
@@ -357,17 +336,11 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f
 #EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_qgVTd7I-u18IYPoPIwLbk.png" group-title="BOLIVIA",Gigavision 2
 http://nubiatv.live:80/live/zero514/zero514/407647.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png" group-title="BOLIVIA",MEGA TV HD (YACUIBA)
-https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1850048317.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5KlTK6YcdQP3jT2MIqmBLxSrJtvU2xl3NF00U4h092vDFeNtSKCUEaX8ETVqBKDyYBrttVjrXXcqx_XX=w768-h768-n-o-v1" group-title="BOLIVIA",AYNI TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/220px-Logo_tvu.png" group-title="BOLIVIA",TVU LA PAZ
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w561629445.m3u8
-
-#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA",F10 TV
-https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/7/SEO-Background-PNG.png" group-title="BOLIVIA",SEO TV FHD
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
@@ -375,8 +348,11 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/7/SEO-Background-PNG.png" group-title="BOLIVIA",SEO TV KIDS
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal3.png" group-title="BOLIVIA",MEDIA TV CANAL 3
-https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",Atb Cbba
+https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4wmFBOVt3oMqzBGpf2VS6NeNQWDTZgjLIZG1vW2pQ7o)/dm/3/x89sfvo/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",Red Uno Cbba
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmVFyf546bhGNDYSk7i6sr-Fq1fN7duQVt8ePeTyGeni)/dm/3/x827j2y/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="BOLIVIA",CHV
 https://onx.la/fe0aa.m3u8
@@ -426,6 +402,9 @@ or
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155630
 or
 http://nubiatv.live:80/live/Pedro2/Febrero/18236.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.lovepik.com/element/40023/4289.png_860.png" group-title="BOLIVIA",Evento
+
 
 #################### Pluto ########################
 
@@ -699,188 +678,145 @@ http://mastertv.pro:8080/tuser@27461/hola@6655/101375
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/63763
 
 #EXTINF:-1 tvg-logo="" group-title="24/7",Hustler HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75402
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2039
+#EXTINF:-1 tvg-logo="" group-title="24/7",BANG U
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2032
 #EXTINF:-1 tvg-logo="" group-title="24/7",Redlight HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75403
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1988
 #EXTINF:-1 tvg-logo="" group-title="24/7",Private TV HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75404
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2034
 #EXTINF:-1 tvg-logo="" group-title="24/7",Dorcel HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75405
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2016
 #EXTINF:-1 tvg-logo="" group-title="24/7",Dorcel XXX HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75406
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2022
 #EXTINF:-1 tvg-logo="" group-title="24/7",Vivid Red HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75407
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1976
 #EXTINF:-1 tvg-logo="" group-title="24/7",Stars XXX HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75408
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297892
 #EXTINF:-1 tvg-logo="" group-title="24/7",Erox HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75409
-#EXTINF:-1 tvg-logo="" group-title="24/7",Erox XXX HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75410
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2018
 #EXTINF:-1 tvg-logo="" group-title="24/7",Penthouse Gold HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75411
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2038
 #EXTINF:-1 tvg-logo="" group-title="24/7",Penthouse Quickies HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75412
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1979
 #EXTINF:-1 tvg-logo="" group-title="24/7",Just 89 HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75413
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/157450
 #EXTINF:-1 tvg-logo="" group-title="24/7",Super One HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75414
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/163418
 #EXTINF:-1 tvg-logo="" group-title="24/7",SEX ATION HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75415
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/198779
 #EXTINF:-1 tvg-logo="" group-title="24/7",Balkan Hot
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75416
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/198778
 #EXTINF:-1 tvg-logo="" group-title="24/7",Babes TV HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75417
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297828
 #EXTINF:-1 tvg-logo="" group-title="24/7",XY Plus HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75418
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/291234
 #EXTINF:-1 tvg-logo="" group-title="24/7",XY Max HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75419
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297156
 #EXTINF:-1 tvg-logo="" group-title="24/7",XY Mix HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75420
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297441
 #EXTINF:-1 tvg-logo="" group-title="24/7",Hot XXL HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75421
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297157
 #EXTINF:-1 tvg-logo="" group-title="24/7",Evil Angel
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75422
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2025
 #EXTINF:-1 tvg-logo="" group-title="24/7",Vivid TV Europe
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75423
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297112
 #EXTINF:-1 tvg-logo="" group-title="24/7",DUSK!
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75424
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/146259
 #EXTINF:-1 tvg-logo="" group-title="24/7",Hustler TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75425
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/296962
 #EXTINF:-1 tvg-logo="" group-title="24/7",XXL
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75426
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/291237
 #EXTINF:-1 tvg-logo="" group-title="24/7",Passie XXX
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75427
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1996
 #EXTINF:-1 tvg-logo="" group-title="24/7",Passion XXX
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75428
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1997
 #EXTINF:-1 tvg-logo="" group-title="24/7",Reality Kings TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75429
+http://source-streams.com:8081/ahmet.berberler/18112019/26
 #EXTINF:-1 tvg-logo="" group-title="24/7",Pink O TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75430
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1995
 #EXTINF:-1 tvg-logo="" group-title="24/7",Prive TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75431
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/295995
 #EXTINF:-1 tvg-logo="" group-title="24/7",Sext & Senso
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75432
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297865
 #EXTINF:-1 tvg-logo="" group-title="24/7",SCT Classic
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75433
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297796
 #EXTINF:-1 tvg-logo="" group-title="24/7",BraZZers TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75434
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297840
 #EXTINF:-1 tvg-logo="" group-title="24/7",Brazzers TV Europe
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75435
+http://source-streams.com:8081/ahmet.berberler/18112019/27
 #EXTINF:-1 tvg-logo="" group-title="24/7",Brazzers TV Europe Russian
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75436
+http://source-streams.com:8081/ahmet.berberler/18112019/28
 #EXTINF:-1 tvg-logo="" group-title="24/7",Hot TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75437
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297842
 #EXTINF:-1 tvg-logo="" group-title="24/7",Venus TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75438
-#EXTINF:-1 tvg-logo="" group-title="24/7"Sextreme
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75439
-#EXTINF:-1 tvg-logo="" group-title="24/7"Sexy HOT
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75440
-#EXTINF:-1 tvg-logo="" group-title="24/7"Meiden Van Holland Hard
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75441
-#EXTINF:-1 tvg-logo="" group-title="24/7"X1
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75442
-#EXTINF:-1 tvg-logo="" group-title="24/7"X Bizarre
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75443
-#EXTINF:-1 tvg-logo="" group-title="24/7"X Desire
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75444
-#EXTINF:-1 tvg-logo="" group-title="24/7"X Bunga Bunga
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75445
-#EXTINF:-1 tvg-logo="" group-title="24/7"Pink Erotic
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75446
-#EXTINF:-1 tvg-logo="" group-title="24/7"Pink Erotic 2
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75447
-#EXTINF:-1 tvg-logo="" group-title="24/7"Pink Erotic 3
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75448
-#EXTINF:-1 tvg-logo="" group-title="24/7"Pink Erotic 4
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75449
-#EXTINF:-1 tvg-logo="" group-title="24/7"Pink Erotic 5
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75450
-#EXTINF:-1 tvg-logo="" group-title="24/7"Pink Erotic 6
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75451
-#EXTINF:-1 tvg-logo="" group-title="24/7"Pink Erotic 7
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75452
-#EXTINF:-1 tvg-logo="" group-title="24/7"Pink Erotic 8
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75453
-#EXTINF:-1 tvg-logo="" group-title="24/7"Balkan Erotic
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75454
-#EXTINF:-1 tvg-logo="" group-title="24/7"Taboo
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75455
-#EXTINF:-1 tvg-logo="" group-title="24/7"Oldtimer
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75456
-#EXTINF:-1 tvg-logo="" group-title="24/7"Bangerz
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75457
-#EXTINF:-1 tvg-logo="" group-title="24/7"Net XX
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75458
-#EXTINF:-1 tvg-logo="" group-title="24/7"Playhouse
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75459
-#EXTINF:-1 tvg-logo="" group-title="24/7"Hot Pleasure
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75460
-#EXTINF:-1 tvg-logo="" group-title="24/7"Milf TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75461
-#EXTINF:-1 tvg-logo="" group-title="24/7"Red XXX
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75462
-#EXTINF:-1 tvg-logo="" group-title="24/7"Extreme
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75463
-#EXTINF:-1 tvg-logo="" group-title="24/7"Lesbian Affair
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75465
-#EXTINF:-1 tvg-logo="" group-title="24/7"Emanuelle
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75466
-#EXTINF:-1 tvg-logo="" group-title="24/7"Шалун TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75467
-#EXTINF:-1 tvg-logo="" group-title="24/7"Playboy TV HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75468
-#EXTINF:-1 tvg-logo="" group-title="24/7"Playboy TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75469
-#EXTINF:-1 tvg-logo="" group-title="24/7"Playboy Europe HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75470
-#EXTINF:-1 tvg-logo="" group-title="24/7"Playboy Europe
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75471
-#EXTINF:-1 tvg-logo="" group-title="24/7"Blue Hustler HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75472
-#EXTINF:-1 tvg-logo="" group-title="24/7"Blue Hustler
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75473
-#EXTINF:-1 tvg-logo="" group-title="24/7"Blue Hustler Europe
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75474
-#EXTINF:-1 tvg-logo="" group-title="24/7"Russian Night HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75475
-#EXTINF:-1 tvg-logo="" group-title="24/7"Russian Night
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75476
-#EXTINF:-1 tvg-logo="" group-title="24/7"Barely Legal TV HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75477
-#EXTINF:-1 tvg-logo="" group-title="24/7"Barely Legal TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75478
-#EXTINF:-1 tvg-logo="" group-title="24/7"Nuart TV HD
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75479
-#EXTINF:-1 tvg-logo="" group-title="24/7"Nuart TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75480
-#EXTINF:-1 tvg-logo="" group-title="24/7"O la la TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75481
-#EXTINF:-1 tvg-logo="" group-title="24/7"French Lover
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75482
-#EXTINF:-1 tvg-logo="" group-title="24/7"French Lover Europe
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75483
-#EXTINF:-1 tvg-logo="" group-title="24/7"Secret Circle TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75484
-#EXTINF:-1 tvg-logo="" group-title="24/7"Candy TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75485
-#EXTINF:-1 tvg-logo="" group-title="24/7"Balkan Hot
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75486
-#EXTINF:-1 tvg-logo="" group-title="24/7"Balkan Hot 2
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75487
-#EXTINF:-1 tvg-logo="" group-title="24/7"Leo TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75488
-#EXTINF:-1 tvg-logo="" group-title="24/7"Free X TV HQ
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75489
-#EXTINF:-1 tvg-logo="" group-title="24/7"Zest TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75490
-#EXTINF:-1 tvg-logo="" group-title="24/7"Exxxotica TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75491
-#EXTINF:-1 tvg-logo="" group-title="24/7"Candyman Gay Men
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75492
-#EXTINF:-1 tvg-logo="" group-title="24/7"Fast Boyz Gay Men
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75493
-#EXTINF:-1 tvg-logo="" group-title="24/7"Fashion TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75495
-#EXTINF:-1 tvg-logo="" group-title="24/7"Jasmin TV
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/75496
+http://source-streams.com:8081/ahmet.berberler/18112019/30
+#EXTINF:-1 tvg-logo="" group-title="24/7",Sextreme
+http://source-streams.com:8081/ahmet.berberler/18112019/31
+#EXTINF:-1 tvg-logo="" group-title="24/7",Sexy HOT
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297845
+#EXTINF:-1 tvg-logo="" group-title="24/7",Meiden Van Holland Hard
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297847
+#EXTINF:-1 tvg-logo="" group-title="24/7",X1
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297848
+#EXTINF:-1 tvg-logo="" group-title="24/7",X Bizarre
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297532
+#EXTINF:-1 tvg-logo="" group-title="24/7",Pink Erotic
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2027
+#EXTINF:-1 tvg-logo="" group-title="24/7",Pink Erotic 2
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2026
+#EXTINF:-1 tvg-logo="" group-title="24/7",Pink Erotic 3
+http://source-streams.com:8081/ahmet.berberler/18112019/37
+#EXTINF:-1 tvg-logo="" group-title="24/7",Pink Erotic 4
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1982
+#EXTINF:-1 tvg-logo="" group-title="24/7",Pink Erotic 5
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1981
+#EXTINF:-1 tvg-logo="" group-title="24/7",Pink Erotic 6
+http://source-streams.com:8081/ahmet.berberler/18112019/40
+#EXTINF:-1 tvg-logo="" group-title="24/7",Pink Erotic 7
+http://source-streams.com:8081/ahmet.berberler/18112019/41
+#EXTINF:-1 tvg-logo="" group-title="24/7",Pink Erotic 8
+http://source-streams.com:8081/ahmet.berberler/18112019/42
+#EXTINF:-1 tvg-logo="" group-title="24/7",Oldtimer
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1998
+#EXTINF:-1 tvg-logo="" group-title="24/7",Playhouse
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2011
+#EXTINF:-1 tvg-logo="" group-title="24/7",Milf TV
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1985
+#EXTINF:-1 tvg-logo="" group-title="24/7",Extreme
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2014
+#EXTINF:-1 tvg-logo="" group-title="24/7",Шалун TV
+http://source-streams.com:8081/ahmet.berberler/18112019/45
+#EXTINF:-1 tvg-logo="" group-title="24/7",Playboy TV HD
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2028
+#EXTINF:-1 tvg-logo="" group-title="24/7",Playboy Europe
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1993
+#EXTINF:-1 tvg-logo="" group-title="24/7",Blue Hustler HD
+#EXTINF:-1 tvg-logo="" group-title="24/7",Blue Hustler Europe
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2007
+#EXTINF:-1 tvg-logo="" group-title="24/7",Russian Night HD
+http://source-streams.com:8081/ahmet.berberler/18112019/50
+#EXTINF:-1 tvg-logo="" group-title="24/7",Barely Legal TV
+http://source-streams.com:8081/ahmet.berberler/18112019/76
+#EXTINF:-1 tvg-logo="" group-title="24/7",Nuart TV HD
+http://source-streams.com:8081/ahmet.berberler/18112019/77
+#EXTINF:-1 tvg-logo="" group-title="24/7",O la la TV
+http://source-streams.com:8081/ahmet.berberler/18112019/52
+#EXTINF:-1 tvg-logo="" group-title="24/7",French Lover
+http://source-streams.com:8081/ahmet.berberler/18112019/53
+#EXTINF:-1 tvg-logo="" group-title="24/7",French Lover Europe
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2010
+#EXTINF:-1 tvg-logo="" group-title="24/7",Candy TV
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/2024
+#EXTINF:-1 tvg-logo="" group-title="24/7",Leo TV
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1994
+#EXTINF:-1 tvg-logo="" group-title="24/7",Cum 4K
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/296695
+#EXTINF:-1 tvg-logo="" group-title="24/7",Bangbros
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/60325
+#EXTINF:-1 tvg-logo="" group-title="24/7",FAKE TAXI
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/63499
+#EXTINF:-1 tvg-logo="" group-title="24/7",Japanhdv
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297792
+#EXTINF:-1 tvg-logo="" group-title="24/7",Mofos
+http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/95334
