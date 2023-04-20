@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor
+Propiedad de Bolbrasor*
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -105,10 +105,10 @@ http://45.160.15.130:2909/play/177
 http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/282607
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina
-http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1606
+
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina 2
-http://iptvtree.net:8080/Vladisergeevic/2f71144da3/1167
+http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1606
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="BRASIL",Food Network
 http://cdn.uptvx.live:80/Sandro6453/353830256453/16218
@@ -266,6 +266,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/215948.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 3
+http://nubiatv.live:80/live/Omarrojas/301049/660029.ts
+or
 http://tv.fullytv.com:8080/anacaraher/123456/52619
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 1 HD
@@ -293,9 +295,10 @@ https://master.tucableip.com/pat/playlist.m3u8
 http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/37759
 
 #EXTINF:-1 tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA",RTP
-http://nubiatv.live:80/live/zero514/zero514/360002.ts
+http://nubiatv.live:80/live/Omarrojas/301049/360002.ts
 or
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA",RTP 2
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.m3u8
@@ -304,7 +307,7 @@ https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/CadenaA2018.png/revision/latest?cb=20190210230952" group-title="BOLIVIA",Cadena A 2
-http://nubiatv.live:80/live/zero514/zero514/360004.ts
+http://nubiatv.live:80/live/Omarrojas/301049/360004.ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="BOLIVIA",Bolivia TV 7.1
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
@@ -316,7 +319,7 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://dtv.bo/wp-content/uploads/2022/11/512x512-logo-sombra.png" group-title="BOLIVIA",Dtv
-http://nubiatv.live:80/live/zero514/zero514/631643.ts
+http://nubiatv.live:80/live/Omarrojas/301049/631643.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/05/LOGO_UNIVALLE_TV_sinfondo.png?fit=854%2C854&ssl=1" group-title="BOLIVIA",Univalle TV
 https://master.tucableip.com/univalletv/playlist.m3u8
@@ -334,7 +337,7 @@ https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_qgVTd7I-u18IYPoPIwLbk.png" group-title="BOLIVIA",Gigavision 2
-http://nubiatv.live:80/live/zero514/zero514/407647.ts
+http://nubiatv.live:80/live/Omarrojas/301049/407647.ts
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5KlTK6YcdQP3jT2MIqmBLxSrJtvU2xl3NF00U4h092vDFeNtSKCUEaX8ETVqBKDyYBrttVjrXXcqx_XX=w768-h768-n-o-v1" group-title="BOLIVIA",AYNI TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
@@ -364,39 +367,41 @@ https://marine2.miplay.cl/megaplus/playlist.m3u8
 https://marine2.miplay.cl/c13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N93tz3l.png" group-title="BOLIVIA",E 1
-http://nubiatv.live:80/live/zero514/zero514/42543.ts
+http://nubiatv.live:80/live/Omarrojas/301049/42543.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/SQDWZwU.png" group-title="BOLIVIA",E 2
-http://nubiatv.live:80/live/zero514/zero514/13740.ts
+http://nubiatv.live:80/live/Omarrojas/301049/13740.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/f4GfoEV.png" group-title="BOLIVIA",E 3
-http://nubiatv.live:80/live/zero514/zero514/13749.ts
+http://nubiatv.live:80/live/Omarrojas/301049/13749.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vmTjTo7.png" group-title="BOLIVIA",E 4
-http://nubiatv.live:80/live/zero514/zero514/246939.ts
+http://nubiatv.live:80/live/Omarrojas/301049/246939.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKPo0E4.png" group-title="BOLIVIA",F 1
-http://nubiatv.live:80/live/zero514/zero514/13752.ts
+http://nubiatv.live:80/live/Omarrojas/301049/13752.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSQ4pP0.png" group-title="BOLIVIA",F 2
-http://nubiatv.live:80/live/zero514/zero514/13753.ts
+http://nubiatv.live:80/live/Omarrojas/301049/13753.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lXJHzEW.png" group-title="BOLIVIA",F 3
-http://nubiatv.live:80/live/zero514/zero514/13750.ts
+http://nubiatv.live:80/live/Omarrojas/301049/13750.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4RLSzE0.png" group-title="BOLIVIA",Tyc
-http://nubiatv.live:80/live/zero514/zero514/18241.ts
+http://nubiatv.live:80/live/Omarrojas/301049/18241.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhQGzLW.png" group-title="BOLIVIA",D 1
-http://nubiatv.live:80/live/zero514/zero514/44682.ts
+http://nubiatv.live:80/live/Omarrojas/301049/44682.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="BOLIVIA",Test 1
-http://nubiatv.live:80/live/zero514/zero514/631651.ts
+http://nubiatv.live:80/live/Omarrojas/301049/631651.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="BOLIVIA",Test 2
-http://nubiatv.live:80/live/zero514/zero514/653263.ts
+http://nubiatv.live:80/live/Omarrojas/301049/653263.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="BOLIVIA",Test 3
+http://nubiatv.live:80/live/Omarrojas/301049/18236.ts
+or
 http://nubiatv.live:80/live/zero514/zero514/18236.ts
 or
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155630
