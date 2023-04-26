@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor*
+Propiedad de Bolbrasor
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -105,7 +105,7 @@ http://45.160.15.130:2909/play/177
 http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/282607
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina
-
+http://1sn.ns1.name:18800/dani/dani1/3582
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina 2
 http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/1606
@@ -120,7 +120,7 @@ http://xx.scorpionplay.tech:80/438589028718/339972854846/1784714
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/99-990552_cozinha-divertida-logo-de-cocina-divertida.png", group-title="BRASIL", Cocina Divertida
-http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/294429
+http://pfsv.io:80/ELISIO6854/SZ7343/106614
 
 #EXTINF:-1 tvg-logo="https://www.frogx3.com/wp-content/uploads/2016/10/twitter-cocina-e1477313916400.jpg" group-title="BRASIL",Pluto TV Cocina
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
@@ -190,6 +190,30 @@ http://cdn.uptvx.live:80/Sandro6453/353830256453/16331
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/15/632/png-clipart-e-television-channel-entertainment-logo-channel-miscellaneous-television.png" group-title="BRASIL",E!
 http://line.eagletv.co:80/Cristal1/XGHVDP7G7G/7782
+
+#EXTINF:-1 tvg-logo="http://p6.vc/VJT" group-title="BRASIL",Pantanal
+http://pfsv.io:80/ELISIO6854/SZ7343/116359
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/175/312/png-transparent-masterchef-logo-television-show-logo-chef-television-text-trademark-thumbnail.png" group-title="BRASIL",Master Chef
+http://pfsv.io:80/ELISIO6854/SZ7343/106789
+
+#EXTINF:-1 tvg-logo="https://oportaln10.com.br/todocanal/wp-content/uploads/2021/05/mestre-do-sabor-logo.png" group-title="BRASIL",Mestre do Sabor
+http://pfsv.io:80/ELISIO6854/SZ7343/106780
+
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/751/32213953876_e344c49ebc_b.jpg" group-title="BRASIL",Pesadelo na cozinha
+http://pfsv.io:80/ELISIO6854/SZ7343/106899
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/02/Logotipo_do_Top_Chef_Brasil.jpg" group-title="BRASIL",Top Chef Brasil
+http://pfsv.io:80/ELISIO6854/SZ7343/107056
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/824/984/png-clipart-video-clothing-logo-car-sertanejo-label-mobile-phones.png" group-title="BRASIL",Certanejos
+http://pfsv.io:80/ELISIO6854/SZ7343/107096
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="BRASIL", Top Muscas Brasil
+http://pfsv.io:80/ELISIO6854/SZ7343/107097
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Os_Trapalh%C3%B5es_%28logotipo_1977-1984%29.webp/983px-Os_Trapalh%C3%B5es_%28logotipo_1977-1984%29.webp.png" group-title="BRASIL",Os Trapalhoes
+http://pfsv.io:80/ELISIO6854/SZ7343/43949
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRASIL",Tv Gazeta
 http://168.205.87.198:8555/live/shirley/123456/69.m3u8
@@ -266,8 +290,6 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/215948.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 3
-http://nubiatv.live:80/live/Omarrojas/301049/660029.ts
-or
 http://tv.fullytv.com:8080/anacaraher/123456/52619
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 1 HD
@@ -295,10 +317,7 @@ https://master.tucableip.com/pat/playlist.m3u8
 http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/37759
 
 #EXTINF:-1 tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA",RTP
-http://nubiatv.live:80/live/Omarrojas/301049/360002.ts
-or
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA",RTP 2
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.m3u8
@@ -307,7 +326,7 @@ https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/CadenaA2018.png/revision/latest?cb=20190210230952" group-title="BOLIVIA",Cadena A 2
-http://nubiatv.live:80/live/Omarrojas/301049/360004.ts
+http://190.186.147.95:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="BOLIVIA",Bolivia TV 7.1
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
@@ -315,29 +334,17 @@ https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="BOLIVIA",Bolivia TV 7.2
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="BOLIVIA",Bolivia TV 7.3
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://dtv.bo/wp-content/uploads/2022/11/512x512-logo-sombra.png" group-title="BOLIVIA",Dtv
-http://nubiatv.live:80/live/Omarrojas/301049/631643.ts
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/05/LOGO_UNIVALLE_TV_sinfondo.png?fit=854%2C854&ssl=1" group-title="BOLIVIA",Univalle TV
 https://master.tucableip.com/univalletv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="BOLIVIA",RTVE punata
-https://stmv.panel.grupolimalive.com/encuentro/encuentro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="BOLIVIA",RTVE punata 2
-https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
+https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA",Erbol TV
 https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_qgVTd7I-u18IYPoPIwLbk.png" group-title="BOLIVIA",Gigavision
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn_qgVTd7I-u18IYPoPIwLbk.png" group-title="BOLIVIA",Gigavision 2
-http://nubiatv.live:80/live/Omarrojas/301049/407647.ts
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5KlTK6YcdQP3jT2MIqmBLxSrJtvU2xl3NF00U4h092vDFeNtSKCUEaX8ETVqBKDyYBrttVjrXXcqx_XX=w768-h768-n-o-v1" group-title="BOLIVIA",AYNI TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
@@ -351,12 +358,6 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/7/SEO-Background-PNG.png" group-title="BOLIVIA",SEO TV KIDS
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",Atb Cbba
-https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4wmFBOVt3oMqzBGpf2VS6NeNQWDTZgjLIZG1vW2pQ7o)/dm/3/x89sfvo/s/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="BOLIVIA",Red Uno Cbba
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmVFyf546bhGNDYSk7i6sr-Fq1fN7duQVt8ePeTyGeni)/dm/3/x827j2y/d/live-3.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="BOLIVIA",CHV
 https://onx.la/fe0aa.m3u8
 
@@ -366,50 +367,310 @@ https://marine2.miplay.cl/megaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" group-title="BOLIVIA",Canal 13 Ch
 https://marine2.miplay.cl/c13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N93tz3l.png" group-title="BOLIVIA",E 1
-http://nubiatv.live:80/live/Omarrojas/301049/42543.ts
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/605-6050402_telefe-canal-11-de-salta-hd-png-download.png" group-title="BOLIVIA",Telefe
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/SQDWZwU.png" group-title="BOLIVIA",E 2
-http://nubiatv.live:80/live/Omarrojas/301049/13740.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="BOLIVIA",ElTrece
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ELTRECE/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/f4GfoEV.png" group-title="BOLIVIA",E 3
-http://nubiatv.live:80/live/Omarrojas/301049/13749.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="BOLIVIA",Las Estrellas
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2092556
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vmTjTo7.png" group-title="BOLIVIA",E 4
-http://nubiatv.live:80/live/Omarrojas/301049/246939.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="BOLIVIA",Telemundo
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2094330
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKPo0E4.png" group-title="BOLIVIA",F 1
-http://nubiatv.live:80/live/Omarrojas/301049/13752.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FSQ4pP0.png" group-title="BOLIVIA",F 2
-http://nubiatv.live:80/live/Omarrojas/301049/13753.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lXJHzEW.png" group-title="BOLIVIA",F 3
-http://nubiatv.live:80/live/Omarrojas/301049/13750.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4RLSzE0.png" group-title="BOLIVIA",Tyc
-http://nubiatv.live:80/live/Omarrojas/301049/18241.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MhQGzLW.png" group-title="BOLIVIA",D 1
-http://nubiatv.live:80/live/Omarrojas/301049/44682.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="BOLIVIA",Test 1
-http://nubiatv.live:80/live/Omarrojas/301049/631651.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="BOLIVIA",Test 2
-http://nubiatv.live:80/live/Omarrojas/301049/653263.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="BOLIVIA",Test 3
-http://nubiatv.live:80/live/Omarrojas/301049/18236.ts
+#################### Deportes ########################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155634
 or
-http://nubiatv.live:80/live/zero514/zero514/18236.ts
+http://45.5.118.226:8000/play/a02v/index.m3u8
 or
+http://vplay.club:8080/Wayne/1234/279122
+or
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/3750
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 2
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155629
+or
+http://mastertv.pro:8080/live/Jona/wSrWvN/86098.m3u8
+or
+http://vplay.club:8080/Wayne/1234/279107
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 3
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155630
-or
-http://nubiatv.live:80/live/Pedro2/Febrero/18236.m3u8
+or 
+http://vplay.club:8080/Wayne/1234/279113
 
-#EXTINF:-1 tvg-logo="https://img.lovepik.com/element/40023/4289.png_860.png" group-title="BOLIVIA",Evento
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N93tz3l.png", group-title="Deportes", Espn
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2092626
 
+#EXTINF:-1 tvg-logo="https://imgur.com/SQDWZwU.png", group-title="Deportes", Espn 2
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2095415
+
+#EXTINF:-1 tvg-logo="https://imgur.com/f4GfoEV.png" group-title="Deportes", Espn 3
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2123475
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vmTjTo7.png" group-title="Deportes", Espn 4
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2123476
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes", Espn Deportes
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123475
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKPo0E4.png", group-title="Deportes", Fox Sport
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2092587
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSQ4pP0.png", group-title="Deportes", Fox Sport 2
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2092588
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png", group-title="Deportes", Fox Sport 3
+http://45.166.92.22:58001/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MhQGzLW.png", group-title="Deportes", D Sports
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/11047
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png", group-title="Deportes", D Sports 2
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11025
+
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/297-2974594_directv-sports-plus-logo-hd-png-download.png", group-title="Deportes", D Sports +
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11026
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4RLSzE0.png" group-title="Deportes",TyC sports
+http://45.166.92.22:58001/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4RLSzE0.png" group-title="Deportes",TyC sports 2
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/25279
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes",Dazn 1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144853
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes",Dazn 2
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144856
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportes",TnT Sports
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2140800
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg", group-title="Deportes", Gol TV
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180460
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png", group-title="Deportes", Wino
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2095416
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", group-title="Deportes", TUDN
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tvc_dep.jpg", group-title="Deportes", TVC Deportes
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10944
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tvc_dep.jpg", group-title="Deportes", TVC Deportes
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2145706
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/52b985145ae9fbd61c101003af8a1a81.png", group-title="Deportes", Adrenalina Sports
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10960
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/f5a1944259815fd00c2f57062e414b8a.png", group-title="Deportes", Claro Sports
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/202070
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/real-madrid-logo-png/real-madrid-logo-real-madrid-centenario-logo-png-transparent-svg-vector-bie-supply-16.png", group-title="Deportes", Real Madrid Tv
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/222746
+
+#################### Entretenimiento ########################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HTgZyXl.png", group-title="Entretenimiento", Nat Geo
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM9jwRR.png", group-title="Entretenimiento", Discovey Channel 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png", group-title="Entretenimiento", Animal Planet
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ANIMALPLANETHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", group-title="Entretenimiento", Home & health
+http://45.166.92.22:58001/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/c5e6bf72241158f09aa30e9c966269a3.png", group-title="Entretenimiento", Discovery Turbo
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/148707
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png", group-title="Entretenimiento", Discovery ID
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png", group-title="Entretenimiento", Discovery World
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYWORLDHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png", group-title="Entretenimiento", Discovery Science
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZB3XhQ77/prem-discovery-theater.png", group-title="Entretenimiento", Discovery Theater
+http://179.1.64.211:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png", group-title="Entretenimiento", Mtv
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png", group-title="Entretenimiento", TLC
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2095400
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png", group-title="Entretenimiento", History
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/148711
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/490b2834e65737c1fce95e468cc8b8bf.png", group-title="Entretenimiento", H2
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/154075
+
+#EXTINF:-1 tvg-logo="http://l3d.us:25461/images/26e104754d63adb5a0f6ce026be7182b.png", group-title="Entretenimiento", HGTV
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/182836
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M6M7nyv/prem-e-entertainment-television.png", group-title="Entretenimiento", E!
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/148722
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKkYHDvK/prem-lifetime.png", group-title="Entretenimiento", Life Time
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2147951
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YFXzk9P/prem-film-and-arts.png", group-title="Entretenimiento", Film & Arts
+http://45.166.92.22:58001/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png", group-title="Entretenimiento", TeleNoveleas
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2092576
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png", group-title="Entretenimiento", Pasiones
+http://45.166.92.22:58001/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png", group-title="Entretenimiento", Unicable
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2092564
+
+######################## Cine ########################
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/183/651/png-clipart-universal-channel-television-channel-studio-universal-pay-television-space-television-text.png", group-title="Entretenimiento", Studio Universal
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-0.png", group-title="Entretenimiento", Paramount
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png", group-title="Entretenimiento", Comedy Central
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/COMEDYCENTRALHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t1rjTRkL/prem-space.png", group-title="Entretenimiento", Space
+http://45.166.92.22:58001/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png", group-title="Entretenimiento", AXN
+http://45.166.92.22:58001/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png", group-title="Entretenimiento", HBO
+http://45.166.92.22:58001/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png", group-title="Entretenimiento", HBO 2
+http://45.166.92.22:58001/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png", group-title="Entretenimiento", TnT 
+http://45.166.92.22:58001/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", group-title="Entretenimiento", TnT Series
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2095396
+
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png", group-title="Entretenimiento", A&E
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2092573
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png", group-title="Entretenimiento", Star Channel
+http://45.166.92.22:58001/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/211/697/png-transparent-fxx-logo-television-show-television-channel-tv-channel-television-angle-text.png", group-title="Entretenimiento", Fx
+http://45.166.92.22:58001/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/2560px-Universal-Pictures-Logo.svg.png", group-title="Entretenimiento", Universal
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2092575
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v815JKgR/prem-cinecanal.png", group-title="Entretenimiento", Cine Canal
+http://45.166.92.22:58001/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJtBNVZR/prem-cinemax.png", group-title="Entretenimiento", Cinemax
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092596
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXzzTnJq/prem-clover-channel.png", group-title="Entretenimiento", Clover Channel
+http://168.194.171.33:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PNQCMY6H/prem-dhe.png", group-title="Entretenimiento", DHE
+http://45.166.92.22:58001/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJN3x201/prem-golden-edge.png", group-title="Entretenimiento", Golden Edge
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/154111
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ykhxKFLn/prem-golden-plus.png", group-title="Entretenimiento", Golden Plus
+http://179.1.64.211:8000/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bDJqHSdy/prem-sony-channel.png", group-title="Entretenimiento", Sony Channel
+http://45.166.92.22:58001/play/a04a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png", group-title="Entretenimiento", Sony Movies
+http://45.166.92.22:58001/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vgcd6RSD/prem-tbs.png", group-title="Entretenimiento", TBS
+http://179.1.64.211:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153813
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153814
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153815
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153816
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153817
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153818
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153819
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153820
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153821
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153822
+
+######################## Musica ########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/1200px-MTV_HITS_logo.svg.png", group-title="Entretenimiento", Mtv Hits
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0KKxhgph/prem-mtv-00s.png", group-title="Entretenimiento", Mtv 00
+http://168.194.171.33:8000/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J43FtRnv/prem-mtv-live.png", group-title="Entretenimiento", Mtv Hitts
+http://45.166.92.22:58001/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Telehit_logo_2014.png", group-title="Entretenimiento", Telehit
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/26937
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="Entretenimiento", Top Muscas Brasil
+http://pfsv.io:80/ELISIO6854/SZ7343/107097
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png", group-title="Entretenimiento", Telehit Musica
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/26938
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", group-title="Entretenimiento", Htv
+http://45.166.92.22:58001/play/a051/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947919221928816640/YyOgegDt_400x400.jpg", group-title="Entretenimiento", EjTv
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EJTV/__op/hls-default/__f/index.m3u8
+
+#################### Infantiles ########################
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg", group-title="Infantiles", Bitme
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png", group-title="Infantiles", Tooncast
+http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2095395
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png", group-title="Infantiles", Cartoon Network
+http://45.166.92.22:58001/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/583/245/png-clipart-logos-de-series-nickelodeon-logo.png", group-title="Infantiles", Nick
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/disney-channel-logo-3CFECEE7FC-seeklogo.com.png", group-title="Infantiles", Disney Chanel
+http://45.166.92.22:58001/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png", group-title="Infantiles", Nick Jr
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007", group-title="Infantiles", Disney Jr
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", group-title="Infantiles", Discovery Kids
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
 
 #################### Pluto ########################
 
@@ -574,71 +835,57 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5
 
 ******************************24/7*******************************
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons
-http://51.222.108.195:25461/0014497A076E/XtrmWin69/14160
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 2
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37848
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 2
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37848
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 3
 http://51.222.108.195:25461/0014497A076E/XtrmWin69/14194
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 4
-http://nubiatv.live:80/live/zero514/zero514/43377.ts
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 5
-http://nubiatv.live:80/live/zero514/zero514/43366.ts
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 6
-http://nubiatv.live:80/live/zero514/zero514/43376.ts
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-Clipart-Background.png" group-title="24/7",Tom Y Jerry
-http://nubiatv.live:80/live/zero514/zero514/43396.ts
+http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/35484
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/12/Woody-woodpecker.png" group-title="24/7",Pajaro Loco
-http://nubiatv.live:80/live/zero514/zero514/43388.ts
+http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/58322
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/422/7/png-clipart-popeye-the-sailor-man-popeye-rush-for-spinach-popeye-village-t-shirt-popeye-comics-child.png" group-title="24/7",Popeye
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37855
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ymPCPb/Sin-t-tulo-1.png" group-title="24/7",LA PANTERA ROSA
-http://nubiatv.live:80/live/zero514/zero514/43322.ts
-or
-http://vip.shortgod.com/viva/tv5.php?id=11989
+http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/34443
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Flintstones.png/640px-The_Flintstones.png" group-title="24/7",LOS PICA PIEDRAS
-http://nubiatv.live:80/live/zero514/zero514/43351.ts
-or
-http://vip.shortgod.com/viva/tv5.php?id=2366
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37854
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37767
-or
-http://nubiatv.live:80/zero514/zero514/43347.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON 2
-http://nubiatv.live:80/live/zero514/zero514/43348.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37758
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" group-title="24/7",EL CHAVO DEL 8
-http://nubiatv.live:80/live/zero514/zero514/43430.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37761
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xswdnRV/Sin-t-tulo-1.png" group-title="24/7",CORAJE EL PERRO COBARDE
-http://live.budtvlight.com:25461/Luna001/18dabf00/11067
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37882
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FhLJMz/Sin-t-tulo-1.png" group-title="24/7",FUTURAMA
-http://nubiatv.live:80/live/zero514/zero514/43342.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37835
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL
-http://nubiatv.live:80/live/zero514/zero514/43358.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Z (Saiyajin)
-http://nubiatv.live:80/live/zero514/zero514/43401.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37816
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Pelis
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/119556
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Z (Cell)
-http://nubiatv.live:80/live/zero514/zero514/43404.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37826
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Z (Frezzer)
-http://nubiatv.live:80/live/zero514/zero514/43402.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37812
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Z (Majin Buu)
-http://nubiatv.live:80/live/zero514/zero514/43405.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37813
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KDncQrT/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL SUPER
-http://nubiatv.live:80/live/zero514/zero514/43399.ts
+http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/35528
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n3RZgJy/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL GT
-http://nubiatv.live:80/live/zero514/zero514/43356.ts
+http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/35529
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130505181423/doblaje/es/images/1/10/Puerquisimo_chancho.png" group-title="24/7",La Casa de los dibujos
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37825
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130505181423/doblaje/es/images/1/10/Puerquisimo_chancho.png" group-title="24/7",La Casa de los dibujos 2
 http://51.222.108.195:25461/0014497A076E/XtrmWin69/14296
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2/Digimon-Logo-PNG-Free-Download.png" group-title="24/7",Digimon
-http://live.budtvlight.com:25461/Luna001/18dabf00/11085
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37814
 #EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8FGtm7y1PDiY4IllKtYWY8.png" group-title="24/7",Ricky Y Morty
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37850
-#EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8FGtm7y1PDiY4IllKtYWY8.png" group-title="24/7",Ricky Y Morty 2
-http://nubiatv.live:80/live/zero514/zero514/43385.ts
-or
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/131688
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TD73SK/Sin-t-tulo-1.png" group-title="24/7",CABALLEROS DEL ZODIACO
-http://nubiatv.live:80/live/zero514/zero514/43323.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37815
 #EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1629257861286.png" group-title="24/7",Yu-gi oh
-http://live.budtvlight.com:25461/Luna001/18dabf00/11992
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/211714
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MNMLczJ/Sin-t-tulo-1.png" group-title="24/7",SOUTH PARK
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37754
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MNMLczJ/Sin-t-tulo-1.png" group-title="24/7",SOUTH PARK 2
@@ -648,37 +895,29 @@ http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37866
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/943/790/png-clipart-adventure-time-adventure-time.png" group-title="24/7",Hora De Aventura
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37858
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/943/790/png-clipart-adventure-time-adventure-time.png" group-title="24/7",Hora De Aventura 2
-http://nubiatv.live:80/live/zero514/zero514/43329.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37858
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/824-8242823_mordecai-and-rigby-rigby-regular-show-png.png" group-title="24/7",Un Show mas
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37881
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/824-8242823_mordecai-and-rigby-rigby-regular-show-png.png" group-title="24/7",Un Show mas 2
-http://nubiatv.live:80/live/zero514/zero514/43398.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37881
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmV9Lp6/Sin-t-tulo-1.png" group-title="24/7",SUPER CAMPEONES
-http://nubiatv.live:80/live/zero514/zero514/43391.ts
+http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/58223
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/12/Walt-Disney-PNG-Clipart.png" group-title="24/7",Movies Walt Disney
-http://nubiatv.live:80/live/zero514/zero514/43464.ts
-#EXTINF:-1 tvg-logo="https://mott.pe/noticias/wp-content/uploads/2018/04/Las-reglas-que-Pixar-aplica-para-conseguir-el-%C3%A9xito-en-sus-pel%C3%ADculas-logo.png" group-title="24/7",Pixar Pelis
-http://nubiatv.live:80/live/zero514/zero514/43459.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/2560px-DreamWorks_Channel_Logo.svg.png" group-title="24/7",Dreamworks Pelis
-http://nubiatv.live:80/live/zero514/zero514/43451.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/144553
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/419/220/png-clipart-logo-marvel-comics-marvel-entertainment-marvel-studios-others-comics-avengers-thumbnail.png" group-title="24/7",Marvel Pelis
-http://nubiatv.live:80/live/zero514/zero514/43456.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DC_Comics_logo.png/768px-DC_Comics_logo.png" group-title="24/7",DC Pelis
-http://nubiatv.live:80/live/zero514/zero514/43450.ts
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20221015/original/pngtree-dragon-ball-illustration-png-image_8696402.png" group-title="24/7",DBZ Pelis
-http://nubiatv.live:80/live/zero514/zero514/43457.ts
-#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/13/The-Amazing-World-of-Gumball-PNG-Background-Image.png" group-title="24/7",El Asombroso mundo de gumball
-http://nubiatv.live:80/live/zero514/zero514/43364.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37916
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/919/629/png-transparent-spongebob-patrick-cartoons-spongebob.png" group-title="24/7",Bob Esponja
-http://nubiatv.live:80/live/zero514/zero514/44193.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/2560px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="24/7",Cartoon Network
-http://nubiatv.live:80/live/zero514/zero514/13756.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/211754
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f5/ff/0c/f5ff0ce25754b29a8d60dd53995e1130.jpg" group-title="24/7",Batman
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/60048
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/865/262/png-transparent-cartoon-network-wikia-sexxxy-eddy-cartoon-fictional-character-cartoon-network-thumbnail.png" group-title="24/7",Ed, Edd y Eddy
-http://nubiatv.live:80/live/zero514/zero514/44176.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37853
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/548-5481824_codename-kids-next-door.png" group-title="24/7",Los chicos del barrio
-http://nubiatv.live:80/live/zero514/zero514/190372.ts
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37856
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/273-2735910_alf-logo-png-download-alf-logo-transparent-png.png" group-title="24/7",Alf
-http://mastertv.pro:8080/tuser@27461/hola@6655/101375
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37766
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/930/894/png-transparent-a-game-of-thrones-logo-emblem-font-game-of-trones-game-emblem-text-thumbnail.png" group-title="24/7",Juego de tronos
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/63763
 
@@ -825,3 +1064,97 @@ http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/63499
 http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297792
 #EXTINF:-1 tvg-logo="" group-title="24/7",Mofos
 http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/95334
+
+
+
+################# TODAS AS FLORES #################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 1
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%201.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 2
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%202.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 3
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%203.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 4
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%204.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 5
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%205.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 6
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%206.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 7
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%207.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 8
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%208.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 9
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%209.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 10
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2010.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 11
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2011.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 12
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2012.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 13
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2013.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 14
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2014.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 15
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2015.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 16
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2016.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 17
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2017.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 18
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2018.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 19
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2019.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 20
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2020.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 21
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2021.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 22
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2022.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 23
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2023.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 24
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2024.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 25
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2025.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 26
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2026.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 27
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2027.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 28
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2028.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 29
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2029.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 30
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2030.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 31
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2031.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 32
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2032.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 33
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2033.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 34
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2034.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 35
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2035.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 36
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2036.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 37
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2037.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 38
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2038.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 39
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2039.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 40
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2040.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 41
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2041.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 42
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2042.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 43
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2043.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 44
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2044.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 45
+https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2045.mp4
