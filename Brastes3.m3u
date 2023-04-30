@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor
+Propiedad de Bolbrasor*
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -374,13 +374,15 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/i
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ELTRECE/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="BOLIVIA",Las Estrellas
-http://line.eagletv.co:80/Cristal1/IIPLZBSR5N/7768
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153528
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="BOLIVIA",Telemundo
-http://line.eagletv.co:80/Cristal1/IIPLZBSR5N/282651
+http://45.166.92.22:58001/play/a00r/index.m3u8
 
 #################### Deportes ########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 1
+http://mastertv.pro:8080/live/Jona/wSrWvN/86096.m3u8
+or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvzTOKFNL7PLMfmCkLEkurmg/ts
 or
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/37853
@@ -394,15 +396,17 @@ or
 http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/3750
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 2
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
-or
 http://mastertv.pro:8080/live/Jona/wSrWvN/86098.m3u8
+or
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
 or
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155629
 or
 http://vplay.club:8080/Wayne/1234/279107
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 3
+http://mastertv.pro:8080/live/Jona/wSrWvN/86098.m3u8
+or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9CRVfW997IRuzwymn62Srw/ts
 or
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155630
