@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor*
+Propiedad de Bolbrasor**
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -381,7 +381,7 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 
 #################### Deportes ########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 1
-http://mastertv.pro:8080/live/Jona/wSrWvN/86096.m3u8
+http://mastertv.pro:8080/live/Jona/wSrWvN/86096.ts
 or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvzTOKFNL7PLMfmCkLEkurmg/ts
 or
@@ -396,7 +396,7 @@ or
 http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/3750
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 2
-http://mastertv.pro:8080/live/Jona/wSrWvN/86098.m3u8
+http://mastertv.pro:8080/live/Jona/wSrWvN/86098.ts
 or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
 or
@@ -405,7 +405,7 @@ or
 http://vplay.club:8080/Wayne/1234/279107
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 3
-http://mastertv.pro:8080/live/Jona/wSrWvN/86098.m3u8
+http://mastertv.pro:8080/live/Jona/wSrWvN/86100.ts
 or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9CRVfW997IRuzwymn62Srw/ts
 or
