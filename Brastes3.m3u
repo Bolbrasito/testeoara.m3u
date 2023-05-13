@@ -41,11 +41,13 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16729
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 4
-http://pfsv.io:80/40642758/08180/123543
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16728
 
 #################### SaBaTa ##########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 1
-http://pfsv.io:80/40642758/08180/71
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
+or
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31045
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 2
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -55,30 +57,32 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 #################### RaCaRD #########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 1
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16410
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+or
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 2
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 3
 https://epg.pw/stream/d6b627794349c7dd5ea129e16b8db9f79950c01012a1f2304c193380b3838b37.ctv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 3
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 4
-http://pfsv.io:80/40642758/08180/583
+https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
 #################### BoNDo #########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWkwg41.png" group-title="BRASIL",BAND 1
-http://cdn.uptvx.live:80/Sandro6453/353830256453/43351
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31030
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWkwg41.png" group-title="BRASIL",BAND 2
-http://pfsv.io:80/40642758/08180/123575
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31030
 
 #################### Rada TV #######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 1
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16427
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 2
-http://pfsv.io:80/40642758/08180/48
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
 #################### Muxtus ########################
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="BRASIL",GNT
