@@ -375,9 +375,9 @@ http://45.5.117.182:8000/play/a0jx/index.m3u8
 
 #################### Deportes ########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 1
-http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155634
-or
 http://mastertv.pro:8080/live/Jona/wSrWvN/86096.ts
+or
+http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155634
 or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvzTOKFNL7PLMfmCkLEkurmg/ts
 or
@@ -390,15 +390,17 @@ or
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/67477(Testear)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 2
+http://mastertv.pro:8080/live/Jona/wSrWvN/86098.m3u8
+or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155635
 or
 http://vplay.club:8080/Wayne/1234/279107
 or
-http://mastertv.pro:8080/live/Jona/wSrWvN/86098.m3u8
-or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 3
+http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155634
+or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155627
 or
 http://vplay.club:8080/Wayne/1234/279113
