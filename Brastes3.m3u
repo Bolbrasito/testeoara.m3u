@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor*
+Propiedad de Bolbrasor
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -390,7 +390,7 @@ or
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/67477(Testear)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 2
-http://mastertv.pro:8080/live/Jona/wSrWvN/86098.m3u8
+http://mastertv.pro:8080/live/Jona/wSrWvN/86098.ts
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155635
 or
@@ -399,6 +399,8 @@ or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 3
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
+or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155634
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155627
