@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor
+Propiedad de Bolbrasor*
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -38,20 +38,24 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/in
 http://pfsv.io:80/7125938483/5158/582
 or
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16729
+or
+http://51.222.87.103:8880/287994016241/287994016241/16730
+or
+http://clienteworld.com:80/claud123/claud123/83118
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 3
 http://suatv.fun:80/842654623498/364949445592/503653
-or
-https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 4
-http://clienteworld.com:80/claud123/claud123/83118
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
 #################### SaBaTa ##########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 1
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 or
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31045
+or
+http://51.222.87.103:8880/287994016241/287994016241/16749
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 2
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -110,24 +114,32 @@ or
 http://splaytv.io:80/Marcelo984258235/hbgy45df/169527
 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="BRASIL",El gourmet 1
-http://45.5.117.182:8000/play/a0gz/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/157
 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="BRASIL",El gourmet 2
 http://190.61.102.67:8000/play/a022
+or
+http://45.5.117.182:8000/play/a0gz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina
 http://1sn.ns1.name:18800/dani/dani1/3582
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina 2
-
+http://s21tv.co:80/xap59210720/65255947/280378
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/2100592
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="BRASIL",Food Network
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16218
+https://v3.playerlatino.live/stream/m3u8/961
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="BRASIL",Food Network 2
 http://pfsv.io:80/40642758/08180/101
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2728/2728580.png" group-title="BRASIL",Cocina
+http://hplay.xyz:80/hldoudby/qubRsmkm/58127
+
+#EXTINF:-1 tvg-logo="https://www.bainet.es/wp-content/uploads/2017/01/cocina-abierta-logo-300x161.png" group-title="BRASIL",Cocina Abierta
+http://hplay.xyz:80/hldoudby/qubRsmkm/50588
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="BRASIL", Tastemade
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
@@ -170,6 +182,9 @@ http://pfsv.io:80/40642758/08180/30260
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="BRASIL",Home & Held
 http://181.189.243.254:8000/play/a0ss/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="BRASIL",Futura
+https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Trutv-oficial.png" group-title="BRASIL",True Tv
 http://45.228.234.41:16000/play/a08v/index.m3u8
@@ -285,7 +300,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/277656
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 3
-
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2194
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 1 HD
 http://186.121.206.197/live/daniel/index.m3u8
@@ -354,6 +369,8 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="BOLIVIA",CHV
+https://v3.playerlatino.live/stream/m3u8/198
+or
 https://onx.la/fe0aa.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/2076px-Logotipo_de_Mega_%282015-2020%29.svg.png" group-title="BOLIVIA",Mega Ch
@@ -377,8 +394,20 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="BOLIVIA",Univision
 http://45.5.117.182:8000/play/a0jx/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Galavision_Logo_2013.svg" group-title="BOLIVIA",GalaVision
+https://v3.playerlatino.live/stream/m3u8/56
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="BOLIVIA",Clic
+https://v3.playerlatino.live/stream/m3u8/165
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/6f/0f/d66f0f6bf8f7615de49dce57a908b6b8.png" group-title="BOLIVIA",Caracol
+https://v3.playerlatino.live/stream/m3u8/290
+
+#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/51/22/png-transparent-tv-logo-tv-azteca-television-azteca-7-television-channel-kazd-wdca.png" group-title="BOLIVIA",Azteca uno
+https://v3.playerlatino.live/stream/m3u8/634
+
 #################### Deportes ########################
-#EXTINF:-1 tvg-logo="https://imgur.com/01biUEg" group-title="Deportes",T S 1.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01biUEg.png" group-title="Deportes",T S 1.1
 http://mastertv.pro:8080/live/Jona/wSrWvN/86096.ts
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155634
@@ -386,7 +415,7 @@ or
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/3750
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/MCCZEIe" group-title="Deportes",T S 2.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCCZEIe.png" group-title="Deportes",T S 2.1
 http://mastertv.pro:8080/live/Jona/wSrWvN/86098.ts
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155635
@@ -408,54 +437,78 @@ or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9CRVfW997IRuzwymn62Srw/ts
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xCA6Bs7" group-title="Deportes",T S 1.2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCA6Bs7.png" group-title="Deportes",T S 1.2
 http://playhispano.org:8080/firesp11/2023C/195803
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/njAfYXv" group-title="Deportes",T S 2.2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/njAfYXv.png" group-title="Deportes",T S 2.2
 http://playhispano.org:8080/firesp11/2023C/195804
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png", group-title="Deportes", Espn Premier
+https://v3.playerlatino.live/stream/m3u8/952
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N93tz3l.png", group-title="Deportes", Espn
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/SQDWZwU.png", group-title="Deportes", Espn 2
 http://45.166.92.22:58001/play/a01i/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/484
 
 #EXTINF:-1 tvg-logo="https://imgur.com/f4GfoEV.png" group-title="Deportes", Espn 3
 http://45.166.92.22:58001/play/a01h/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/485
 
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a244.png" group-title="Deportes", Espn 4
 http://45.5.117.182:8000/play/a0jh/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/493
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKPo0E4.png", group-title="Deportes", Fox Sport
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FSQ4pP0.png", group-title="Deportes", Fox Sport 2
 http://45.5.117.182:8000/play/a0i8/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/494
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png", group-title="Deportes", Fox Sport 3
 http://45.166.92.22:58001/play/a01j/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/511
+or
+https://v3.playerlatino.live/stream/m3u8/839
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png", group-title="Deportes", Fox Sport Premiun
+https://v3.playerlatino.live/stream/m3u8/512
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", group-title="Deportes", Win Sport
+https://v3.playerlatino.live/stream/m3u8/754
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhQGzLW.png", group-title="Deportes", D Sports
-http://190.119.178.46:8000/play/a032/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1643
 
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png", group-title="Deportes", D Sports 2
-http://190.119.178.46:8000/play/a033/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1644
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/297-2974594_directv-sports-plus-logo-hd-png-download.png", group-title="Deportes", D Sports +
-http://190.119.178.46:8000/play/a034/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1645
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4RLSzE0.png" group-title="Deportes",TyC sports
+https://v3.playerlatino.live/stream/m3u8/274
+or
 http://45.166.92.22:58001/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportes",TnT Sports
-http://190.43.92.93:8000/play/a0sx/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/509
 
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg", group-title="Deportes", Gol TV
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/124535
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", group-title="Deportes", TUDN
+https://v3.playerlatino.live/stream/m3u8/801
+or
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/291857
 
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/f5a1944259815fd00c2f57062e414b8a.png", group-title="Deportes", Claro Sports
@@ -470,117 +523,193 @@ http://svtv.xyz:8080/sandra30ab/bBZqtAE/87078
 #################### Entretenimiento ########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HTgZyXl.png", group-title="Entretenimiento", Nat Geo
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/index.m3u8
+or 
+https://v3.playerlatino.live/stream/m3u8/644
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM9jwRR.png", group-title="Entretenimiento", Discovey Channel 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/87
 
 #EXTINF:-1 tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png", group-title="Entretenimiento", Animal Planet
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ANIMALPLANETHD/__op/hls-default/__f/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/633
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjWZoCG.png", group-title="Entretenimiento", A&E
+https://v3.playerlatino.live/stream/m3u8/474
+or
 http://45.5.117.182:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", group-title="Entretenimiento", Home & health
 http://45.166.92.22:58001/play/a015/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/640
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png", group-title="Entretenimiento", Discovery Turbo
+https://v3.playerlatino.live/stream/m3u8/28
+or
 http://45.5.117.182:8000/play/a0iS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png", group-title="Entretenimiento", Discovery ID
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
+or 
+https://v3.playerlatino.live/stream/m3u8/825
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png", group-title="Entretenimiento", Discovery World
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYWORLDHD/__op/hls-default/__f/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/187
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png", group-title="Entretenimiento", Discovery Science
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZB3XhQ77/prem-discovery-theater.png", group-title="Entretenimiento", Discovery Theater
 http://179.1.64.211:8000/play/a00t/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/27
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/comedy-central-logo-E109A89EBB-seeklogo.com.png", group-title="Entretenimiento", Comedy Central
 http://45.5.117.182:8000/play/a0id/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png", group-title="Entretenimiento", Mtv
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/828
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png", group-title="Entretenimiento", TLC
 http://45.5.117.182:8000/play/a0hw/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png", group-title="Entretenimiento", History
 http://45.5.117.182:8000/play/a0fb/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/642
 
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/490b2834e65737c1fce95e468cc8b8bf.png", group-title="Entretenimiento", H2
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/292857
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M6M7nyv/prem-e-entertainment-television.png", group-title="Entretenimiento", E!
 http://45.166.92.22:58001/play/a00n/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/483
 
-#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/LATINO/MASCHIC.png", group-title="Entretenimiento", Mas Chic
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png", group-title="Entretenimiento", Mas Chic
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/31071
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Trutv-oficial.png", group-title="Entretenimiento", True tv 
+https://v3.playerlatino.live/stream/m3u8/501
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YFXzk9P/prem-film-and-arts.png", group-title="Entretenimiento", Film & Arts
 http://45.166.92.22:58001/play/a00o/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/149
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png", group-title="Entretenimiento", TeleNoveleas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png", group-title="Entretenimiento", TlNoveleas
+https://v3.playerlatino.live/stream/m3u8/832
+or
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/24165
 
-#EXTINF:-1 tvg-logo="http://logo.ottc.pro:8080/logos/LATINO/UNIVISIONTELENOVELAS.png", group-title="Entretenimiento", TeleNoveleas Univi
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/223-2234210_univision-tlnovelas-2013-univision-tlnovelas-logo.png", group-title="Entretenimiento", TlNoveleas Univision
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/56997
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png", group-title="Entretenimiento", Pasiones
 http://45.166.92.22:58001/play/a01q/index.m3u8
+or 
+https://v3.playerlatino.live/stream/m3u8/755
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png", group-title="Entretenimiento", RCN Novelas
 http://45.5.117.182:8000/play/a0gk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png", group-title="Entretenimiento", Corazon
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/1332
+or
+https://v3.playerlatino.live/stream/m3u8/834
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png", group-title="Entretenimiento", Unicable
+https://v3.playerlatino.live/stream/m3u8/653
+or
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/345839
 
 ######################## Cine ########################
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/183/651/png-clipart-universal-channel-television-channel-studio-universal-pay-television-space-television-text.png", group-title="Entretenimiento", Studio Universal
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-default/__f/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/137
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-0.png", group-title="Entretenimiento", Paramount
+https://v3.playerlatino.live/stream/m3u8/647
+or
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png", group-title="Entretenimiento", Comedy Central
+https://v3.playerlatino.live/stream/m3u8/480
+or
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/COMEDYCENTRALHD/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t1rjTRkL/prem-space.png", group-title="Entretenimiento", Space
 http://45.166.92.22:58001/play/a02o/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/499
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png", group-title="Entretenimiento", AXN
 http://45.166.92.22:58001/play/a02n/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/476
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png", group-title="Entretenimiento", HBO
 http://45.166.92.22:58001/play/a03s/index.m3u8
+or 
+https://v3.playerlatino.live/stream/m3u8/654
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png", group-title="Entretenimiento", HBO 2
 http://45.166.92.22:58001/play/a03t/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/732
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png", group-title="Entretenimiento", HBO +
+https://v3.playerlatino.live/stream/m3u8/655
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", group-title="Entretenimiento", HBO Xtreme
+https://v3.playerlatino.live/stream/m3u8/971
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png", group-title="Entretenimiento", HBO Pop
+https://v3.playerlatino.live/stream/m3u8/977
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png", group-title="Entretenimiento", HBO Family
+https://v3.playerlatino.live/stream/m3u8/968
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", group-title="Entretenimiento", Warner tv
+https://v3.playerlatino.live/stream/m3u8/503
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png", group-title="Entretenimiento", TnT 
+https://v3.playerlatino.live/stream/m3u8/500
+or
 http://45.166.92.22:58001/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", group-title="Entretenimiento", TnT Series
 http://45.5.117.182:8000/play/a0jt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png", group-title="Entretenimiento", Star Channel
+https://v3.playerlatino.live/stream/m3u8/489
+or
 http://45.166.92.22:58001/play/a048/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/211/697/png-transparent-fxx-logo-television-show-television-channel-tv-channel-television-angle-text.png", group-title="Entretenimiento", Fx
 http://45.166.92.22:58001/play/a00s/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/495
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/2560px-Universal-Pictures-Logo.svg.png", group-title="Entretenimiento", Universal
 http://45.5.117.182:8000/play/a0fh/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/502
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v815JKgR/prem-cinecanal.png", group-title="Entretenimiento", Cine Canal
 http://45.166.92.22:58001/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJtBNVZR/prem-cinemax.png", group-title="Entretenimiento", Cinemax
+https://v3.playerlatino.live/stream/m3u8/638
+or
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/292834
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXzzTnJq/prem-clover-channel.png", group-title="Entretenimiento", Clover Channel
@@ -595,8 +724,13 @@ http://svtv.xyz:8080/sandra30ab/bBZqtAE/31040
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ykhxKFLn/prem-golden-plus.png", group-title="Entretenimiento", Golden Plus
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/164043
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", group-title="Entretenimiento", Golden Premier
+https://v3.playerlatino.live/stream/m3u8/60
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bDJqHSdy/prem-sony-channel.png", group-title="Entretenimiento", Sony Channel
 http://45.166.92.22:58001/play/a04a/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/498
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png", group-title="Entretenimiento", Sony Movies
 http://45.166.92.22:58001/play/a00u/index.m3u8
@@ -604,10 +738,23 @@ http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vgcd6RSD/prem-tbs.png", group-title="Entretenimiento", TBS
 http://179.1.64.211:8000/play/a01z/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png", group-title="Entretenimiento", AMC
+https://v3.playerlatino.live/stream/m3u8/475
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png", group-title="Entretenimiento", AMC 2
+https://v3.playerlatino.live/stream/m3u8/981
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/982/954/png-transparent-sci-fi-channel-logo-television-show-syfy-universal-television-angle-text-thumbnail.png", group-title="Entretenimiento", SyFy
+https://v3.playerlatino.live/stream/m3u8/648
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153813
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153814
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+https://v3.playerlatino.live/stream/m3u8/684
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
+https://v3.playerlatino.live/stream/m3u8/1005
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153815
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
@@ -626,16 +773,23 @@ http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153821
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153822
 
 ######################## Musica ########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png", group-title="Entretenimiento", bandmax
+https://v3.playerlatino.live/stream/m3u8/8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/1200px-MTV_HITS_logo.svg.png", group-title="Entretenimiento", Mtv Hits
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0KKxhgph/prem-mtv-00s.png", group-title="Entretenimiento", Mtv 00
 http://168.194.171.33:8000/play/a05e/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/953
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J43FtRnv/prem-mtv-live.png", group-title="Entretenimiento", Mtv Hitts
 http://45.166.92.22:58001/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Telehit_logo_2014.png", group-title="Entretenimiento", Telehit
+https://v3.playerlatino.live/stream/m3u8/649
+or
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/26937
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="Entretenimiento", Top Muscas Brasil
@@ -651,28 +805,39 @@ http://45.166.92.22:58001/play/a051/index.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EJTV/__op/hls-default/__f/index.m3u8
 
 #################### Infantiles ########################
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg", group-title="Infantiles", Bitme
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg", group-title="Entretenimiento", Bitme
+https://v3.playerlatino.live/stream/m3u8/946
+or
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png", group-title="Infantiles", Tooncast
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png", group-title="Entretenimiento", Tooncast
 http://45.5.117.182:8000/play/a0hm/index.m3u8
+or 
+https://v3.playerlatino.live/stream/m3u8/95
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png", group-title="Infantiles", Cartoon Network
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png", group-title="Entretenimiento", Cartoon Network
+https://v3.playerlatino.live/stream/m3u8/637
+or
 http://45.166.92.22:58001/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/583/245/png-clipart-logos-de-series-nickelodeon-logo.png", group-title="Infantiles", Nick
+#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/583/245/png-clipart-logos-de-series-nickelodeon-logo.png", group-title="Entretenimiento", Nick
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
+or
+https://v3.playerlatino.live/stream/m3u8/645
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/disney-channel-logo-3CFECEE7FC-seeklogo.com.png", group-title="Infantiles", Disney Chanel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png", group-title="Entretenimiento", Teen Nick
+https://v3.playerlatino.live/stream/m3u8/646
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/disney-channel-logo-3CFECEE7FC-seeklogo.com.png", group-title="Entretenimiento", Disney Chanel
 http://45.166.92.22:58001/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png", group-title="Infantiles", Nick Jr
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png", group-title="Entretenimiento", Nick Jr
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007", group-title="Infantiles", Disney Jr
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007", group-title="Entretenimiento", Disney Jr
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", group-title="Infantiles", Discovery Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", group-title="Entretenimiento", Discovery Kids
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
 
 #################### Pluto ########################
@@ -838,24 +1003,30 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5
 
 ******************************24/7*******************************
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons
-http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37848
+https://v3.playerlatino.live/stream/m3u8/524
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 2
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37848
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 3
-http://51.222.108.195:25461/0014497A076E/XtrmWin69/14194
+https://v3.playerlatino.live/stream/m3u8/845
+
+
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-Clipart-Background.png" group-title="24/7",Tom Y Jerry
-http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/35484
+http://hplay.xyz:80/hldoudby/qubRsmkm/35484
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/12/Woody-woodpecker.png" group-title="24/7",Pajaro Loco
-http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/58322
+http://hplay.xyz:80/hldoudby/qubRsmkm/58322
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/422/7/png-clipart-popeye-the-sailor-man-popeye-rush-for-spinach-popeye-village-t-shirt-popeye-comics-child.png" group-title="24/7",Popeye
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37855
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ymPCPb/Sin-t-tulo-1.png" group-title="24/7",LA PANTERA ROSA
-http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/34443
+http://hplay.xyz:80/hldoudby/qubRsmkm/34443
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Flintstones.png/640px-The_Flintstones.png" group-title="24/7",LOS PICA PIEDRAS
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37854
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON
-http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37767
+https://v3.playerlatino.live/stream/m3u8/894
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON 2
+https://v3.playerlatino.live/stream/m3u8/895
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON 3
+https://v3.playerlatino.live/stream/m3u8/896
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON Nuevos
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37758
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" group-title="24/7",EL CHAVO DEL 8
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37761
@@ -874,9 +1045,9 @@ http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37812
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Z (Majin Buu)
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37813
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KDncQrT/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL SUPER
-http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/35528
+http://hplay.xyz:80/hldoudby/qubRsmkm/35528
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n3RZgJy/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL GT
-http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/35529
+http://hplay.xyz:80/hldoudby/qubRsmkm/35529
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130505181423/doblaje/es/images/1/10/Puerquisimo_chancho.png" group-title="24/7",La Casa de los dibujos
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37825
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130505181423/doblaje/es/images/1/10/Puerquisimo_chancho.png" group-title="24/7",La Casa de los dibujos 2
@@ -888,7 +1059,7 @@ http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37850
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TD73SK/Sin-t-tulo-1.png" group-title="24/7",CABALLEROS DEL ZODIACO
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37815
 #EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1629257861286.png" group-title="24/7",Yu-gi oh
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/211714
+https://v3.playerlatino.live/stream/m3u8/664
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MNMLczJ/Sin-t-tulo-1.png" group-title="24/7",SOUTH PARK
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37754
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MNMLczJ/Sin-t-tulo-1.png" group-title="24/7",SOUTH PARK 2
@@ -904,7 +1075,7 @@ http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37881
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/824-8242823_mordecai-and-rigby-rigby-regular-show-png.png" group-title="24/7",Un Show mas 2
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37881
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmV9Lp6/Sin-t-tulo-1.png" group-title="24/7",SUPER CAMPEONES
-http://hplay.xyz:80/Q9m5BU3qn/0Qok54l7oN/58223
+http://hplay.xyz:80/hldoudby/qubRsmkm/58223
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/12/Walt-Disney-PNG-Clipart.png" group-title="24/7",Movies Walt Disney
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/144553
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/419/220/png-clipart-logo-marvel-comics-marvel-entertainment-marvel-studios-others-comics-avengers-thumbnail.png" group-title="24/7",Marvel Pelis
@@ -1072,96 +1243,7 @@ http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/95334
 
 
 ################# TODAS AS FLORES #################
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 1
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%201.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 2
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%202.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 3
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%203.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 4
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%204.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 5
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%205.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 6
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%206.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 7
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%207.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 8
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%208.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 9
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%209.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 10
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2010.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 11
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2011.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 12
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2012.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 13
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2013.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 14
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2014.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 15
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2015.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 16
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2016.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 17
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2017.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 18
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2018.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 19
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2019.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 20
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2020.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 21
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2021.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 22
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2022.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 23
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2023.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 24
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2024.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 25
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2025.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 26
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2026.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 27
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2027.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 28
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2028.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 29
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2029.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 30
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2030.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 31
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2031.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 32
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2032.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 33
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2033.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 34
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2034.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 35
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2035.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 36
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2036.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 37
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2037.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 38
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2038.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 39
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2039.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 40
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2040.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 41
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2041.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 42
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2042.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 43
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2043.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 44
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2044.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 45
-https://filme.cdn01.workers.dev/0:/NOVELAS/TODAS%20AS%20FLORES%20/TODAS%20AS%20FLORES%20CAP%2045.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 46
 http://clienteworld.com:80/series/claud123/claud123/138777432.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 47
@@ -1505,125 +1587,125 @@ http://clienteworld.com:80/series/claud123/claud123/13874688.mp4
 
 ################# A Favorita #################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 1
 http://clienteworld.com:80/series/claud123/claud123/13873404.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 2
 http://clienteworld.com:80/series/claud123/claud123/13873405.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 3
 http://clienteworld.com:80/series/claud123/claud123/13873406.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 4
 http://clienteworld.com:80/series/claud123/claud123/13873407.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 5
 http://clienteworld.com:80/series/claud123/claud123/13873408.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 6
 http://clienteworld.com:80/series/claud123/claud123/13873409.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 7
 http://clienteworld.com:80/series/claud123/claud123/13873410.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 8
 http://clienteworld.com:80/series/claud123/claud123/13873411.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 9
 http://clienteworld.com:80/series/claud123/claud123/13873412.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 10
 http://clienteworld.com:80/series/claud123/claud123/13873413.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 11
 http://clienteworld.com:80/series/claud123/claud123/13873414.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 12
 http://clienteworld.com:80/series/claud123/claud123/13873415.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 13
 http://clienteworld.com:80/series/claud123/claud123/13873416.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 14
 http://clienteworld.com:80/series/claud123/claud123/13873417.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 15
 http://clienteworld.com:80/series/claud123/claud123/13873418.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 16
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 16
 http://clienteworld.com:80/series/claud123/claud123/13873419.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 17
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 17
 http://clienteworld.com:80/series/claud123/claud123/13873420.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 18
 http://clienteworld.com:80/series/claud123/claud123/13873421.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 19
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 19
 http://clienteworld.com:80/series/claud123/claud123/13873422.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 20
 http://clienteworld.com:80/series/claud123/claud123/13873423.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 21
 http://clienteworld.com:80/series/claud123/claud123/13873433.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 22
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 22
 http://clienteworld.com:80/series/claud123/claud123/13873434.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 23
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 23
 http://clienteworld.com:80/series/claud123/claud123/13873435.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 24
 http://clienteworld.com:80/series/claud123/claud123/13873436.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 25
 http://clienteworld.com:80/series/claud123/claud123/13873437.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 26
 http://clienteworld.com:80/series/claud123/claud123/13873438.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 27
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 27
 http://clienteworld.com:80/series/claud123/claud123/13873439.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 28
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 28
 http://clienteworld.com:80/series/claud123/claud123/13873440.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 29
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 29
 http://clienteworld.com:80/series/claud123/claud123/13873441.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 30
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 30
 http://clienteworld.com:80/series/claud123/claud123/13873442.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 31
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 31
 http://clienteworld.com:80/series/claud123/claud123/13873443.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 32
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 32
 http://clienteworld.com:80/series/claud123/claud123/13873444.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 33
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 33
 http://clienteworld.com:80/series/claud123/claud123/13873445.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 34
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 34
 http://clienteworld.com:80/series/claud123/claud123/13873446.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 35
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 35
 http://clienteworld.com:80/series/claud123/claud123/13873447.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 36
 http://clienteworld.com:80/series/claud123/claud123/13873448.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 37
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 37
 http://clienteworld.com:80/series/claud123/claud123/13873449.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 38
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 38
 http://clienteworld.com:80/series/claud123/claud123/13873450.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 39
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 39
 http://clienteworld.com:80/series/claud123/claud123/13873451.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 40
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 40
 http://clienteworld.com:80/series/claud123/claud123/13873452.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 41
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 41
 http://clienteworld.com:80/series/claud123/claud123/13873453.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 42
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 42
 http://clienteworld.com:80/series/claud123/claud123/13873454.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 43
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 43
 http://clienteworld.com:80/series/claud123/claud123/13873455.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 44
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 44
 http://clienteworld.com:80/series/claud123/claud123/13873456.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 45
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 45
 http://clienteworld.com:80/series/claud123/claud123/13873457.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 46
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 46
 http://clienteworld.com:80/series/claud123/claud123/13873458.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 47
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 47
 http://clienteworld.com:80/series/claud123/claud123/13873459.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 48
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 48
 http://clienteworld.com:80/series/claud123/claud123/13873460.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 49
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 49
 http://clienteworld.com:80/series/claud123/claud123/13873461.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 50
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 50
 http://clienteworld.com:80/series/claud123/claud123/13873462.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 51
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 51
 http://clienteworld.com:80/series/claud123/claud123/13874832.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 52
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 52
 http://clienteworld.com:80/series/claud123/claud123/13874833.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 53
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 53
 http://clienteworld.com:80/series/claud123/claud123/13874834.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 54
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 54
 http://clienteworld.com:80/series/claud123/claud123/13874835.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 55
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 55
 http://clienteworld.com:80/series/claud123/claud123/13874836.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 56
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 56
 http://clienteworld.com:80/series/claud123/claud123/13874837.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 57
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 57
 http://clienteworld.com:80/series/claud123/claud123/13874838.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 58
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 58
 http://clienteworld.com:80/series/claud123/claud123/13874839.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 59
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 59
 http://clienteworld.com:80/series/claud123/claud123/13874840.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/CiocyGl" group-title="A Favorita" , CAP 60
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 60
 http://clienteworld.com:80/series/claud123/claud123/13874841.mp4
 
 ################# Santo maldito #################
@@ -1645,7 +1727,7 @@ http://clienteworld.com:80/series/claud123/claud123/138767866.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Santo_maldito_Serie_de_TV-309875628-large.jpg" group-title="Santo maldito" , CAP 8
 http://clienteworld.com:80/series/claud123/claud123/138767867.mp4
 
-################# Gangues de Londres #################
+################# Santo maldito #################
 
 #EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 1
 http://clienteworld.com:80/series/claud123/claud123/138760357.mp4
