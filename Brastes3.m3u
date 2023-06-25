@@ -408,14 +408,19 @@ https://v3.playerlatino.live/stream/m3u8/634
 
 #################### Deportes ########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/01biUEg.png" group-title="Deportes",T S 1.1
+http://playhispano.org:8080/firesp11/2023C/195803
+or
 http://mastertv.pro:8080/live/Jona/wSrWvN/86096.ts
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155634
 or
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/3750
-
+or
+http://starfamily.vip:8080/armando16may/5w6K6rSjmDLL/434594
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCCZEIe.png" group-title="Deportes",T S 2.1
+http://playhispano.org:8080/firesp11/2023C/195804
+or
 http://mastertv.pro:8080/live/Jona/wSrWvN/86098.ts
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155635
@@ -423,6 +428,8 @@ or
 http://vplay.club:8080/Wayne/1234/279107
 or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
+or
+http://starfamily.vip:8080/armando16may/5w6K6rSjmDLL/434595
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 3
@@ -438,11 +445,11 @@ http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9CRVfW997IRuzwymn62Srw/ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCA6Bs7.png" group-title="Deportes",T S 1.2
-http://playhispano.org:8080/firesp11/2023C/195803
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njAfYXv.png" group-title="Deportes",T S 2.2
-http://playhispano.org:8080/firesp11/2023C/195804
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png", group-title="Deportes", Espn Premier
 https://v3.playerlatino.live/stream/m3u8/952
