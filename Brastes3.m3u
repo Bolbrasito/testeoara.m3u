@@ -408,6 +408,8 @@ https://v3.playerlatino.live/stream/m3u8/634
 
 #################### Deportes ########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/01biUEg.png" group-title="Deportes",T S 1.1
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv69xBqKVq63QnAkjxe3ETSs/ts
+or
 http://playhispano.org:8080/firesp11/2023C/195803
 or
 http://mastertv.pro:8080/live/Jona/wSrWvN/86096.ts
@@ -419,6 +421,8 @@ or
 http://starfamily.vip:8080/armando16may/5w6K6rSjmDLL/434594
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCCZEIe.png" group-title="Deportes",T S 2.1
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
+or
 http://playhispano.org:8080/firesp11/2023C/195804
 or
 http://mastertv.pro:8080/live/Jona/wSrWvN/86098.ts
@@ -433,7 +437,7 @@ http://starfamily.vip:8080/armando16may/5w6K6rSjmDLL/434595
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S 3
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
+
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155627
 or
