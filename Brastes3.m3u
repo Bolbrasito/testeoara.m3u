@@ -1,7 +1,7 @@
 #EXTM3U
 #################### Agroecuario ######################
 Testeo para cosas agropecuarias
-Propiedad de Bolbrasor
+Propiedad de Bolbrasor*
 #################### Evangelico ######################
 Testeo para cosas Evangelica
 Propiedad de Bolbrasor 
@@ -419,6 +419,8 @@ or
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/3750
 or
 http://starfamily.vip:8080/armando16may/5w6K6rSjmDLL/434594
+or
+http://51.222.43.170:8001/dsuki-eno-ide-veca-sto-ti-zenu-jebavao-na-zadnjem-sjedistu-golfa-keca/Adb67xTgcFHx/263275
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCCZEIe.png" group-title="Deportes",T S 2.1
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
@@ -431,13 +433,17 @@ http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155635
 or
 http://vplay.club:8080/Wayne/1234/279107
 or
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
-or
 http://starfamily.vip:8080/armando16may/5w6K6rSjmDLL/434595
+or
+http://tutv.online:2080/cliente313/wCfsyUZ6gtsk/72820
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S E1
-http://arboltv.xyz:8080/GaNgyv4NRX/ujbSeCkCsvDb/157687
+http://daleplaytv.vip:8080/Panterahol071@/RM3JP7qfzjuE/160820
+or
+http://51.222.43.170:8001/alejandrovazquez/X4djH716XG/263275
+or
+http://arboltv.xyz:8080/demoarboltv9687/wsp-50557965930/157687
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155627
 or
@@ -446,8 +452,12 @@ or
 http://mastertv.pro:8080/live/Jona/wSrWvN/86098.ts
 or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv9CRVfW997IRuzwymn62Srw/ts
+or
+http://tutv.online:2080/cliente313/wCfsyUZ6gtsk/72821
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S E2
+http://51.222.43.170:8001/pacorojas/ayy9fe8qSWMt/263275
+or
 http://arboltv.xyz:8080/GaNgyv4NRX/ujbSeCkCsvDb/157688
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCA6Bs7.png" group-title="Deportes",T S 1.2
