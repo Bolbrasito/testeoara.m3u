@@ -36,110 +36,84 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 2
 http://pfsv.io:80/7125938483/5158/582
-or
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16729
-or
-http://51.222.87.103:8880/287994016241/287994016241/16730
-or
-http://clienteworld.com:80/claud123/claud123/83118
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 3
-http://suatv.fun:80/842654623498/364949445592/503653
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 4
-https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16729
 
 #################### SaBaTa ##########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 1
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16749
+or
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
-or
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31045
-or
-http://51.222.87.103:8880/287994016241/287994016241/16749
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 2
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 3
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+http://pfsv.io:80/7125938483/5158/30179.ts
 
 #################### RaCaRD #########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 1
+http://pfsv.io:80/7125938483/5158/583
+or
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 2
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31043
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 3
-http://pfsv.io:80/7125938483/5158/583
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 4
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31563
-
 #################### BoNDo #########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWkwg41.png" group-title="BRASIL",BAND 1
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31053
+http://pfsv.io:80/7125938483/5158/123583.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWkwg41.png" group-title="BRASIL",BAND 2
-http://suatv.fun:80/842654623498/364949445592/415257
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31059
 
 #################### Rada TV #######################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 1
 https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
+or
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31072
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="BRASIL",Rede TV 2
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+or
+http://pfsv.io:80/7125938483/5158/48.ts
 
 #################### Muxtus ########################
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="BRASIL",GNT
-http://cdn.uptvx.live:80/Sandro6453/353830256453/54624
+http://pfsv.io:80/7125938483/5158/130260.ts
 
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/5f9bb97ed5f47090caf1d3fc1fafc871.png" group-title="BRASIL",GNT 2
-http://iptvtree.net:8080/xhevahir2022/bTUNuQxGfD64wgMZ/8856
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w3omDUq.png" group-title="BRASIL",Joven Pan News
-http://pfsv.io:80/40642758/08180/130231
-or
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w3omDUq.png" group-title="BRASIL",Joven Pan News 2
-http://cdn.uptvx.live:80/Sandro6453/353830256453/52338
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31608
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFlHLkw.png" group-title="BRASIL",Sabor y arte
-http://cdn.uptvx.live:80/Sandro6453/353830256453/52340
+http://pfsv.io:80/7125938483/5158/127312.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFlHLkw.png" group-title="BRASIL",Sabor y arte 2
-http://pfsv.io:80/40642758/08180/130228
-or
 http://splaytv.io:80/Marcelo984258235/hbgy45df/169527
+or
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36015
 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="BRASIL",El gourmet 1
 https://v3.playerlatino.live/stream/m3u8/157
 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="BRASIL",El gourmet 2
-http://190.61.102.67:8000/play/a022
-or
 http://45.5.117.182:8000/play/a0gz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina
-http://1sn.ns1.name:18800/dani/dani1/3582
+http://s21tv.co:80/xap59210720/65255947/280378
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="BRASIL",Canal Cocina 2
-http://s21tv.co:80/xap59210720/65255947/280378
-or
-http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/2100592
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="BRASIL",Food Network
 https://v3.playerlatino.live/stream/m3u8/961
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="BRASIL",Food Network 2
-http://pfsv.io:80/40642758/08180/101
+http://pfsv.io:80/7125938483/5158/130259.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2728/2728580.png" group-title="BRASIL",Cocina
-http://hplay.xyz:80/hldoudby/qubRsmkm/58127
+http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/58127
 
 #EXTINF:-1 tvg-logo="https://www.bainet.es/wp-content/uploads/2017/01/cocina-abierta-logo-300x161.png" group-title="BRASIL",Cocina Abierta
-http://hplay.xyz:80/hldoudby/qubRsmkm/50588
+http://hplay.xyz:80/bxdhgreh/2XUg6wn16x/50588
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="BRASIL", Tastemade
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
@@ -166,22 +140,10 @@ https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://imgur.com/3inGYNL.png" group-title="BRASIL",Bis
-http://cdn.uptvx.live:80/Sandro6453/353830256453/17114
+http://pfsv.io:80/7125938483/5158/30177.ts
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="BRASIL",Multi Show
-http://cdn.uptvx.live:80/Sandro6453/353830256453/38322
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HTgZyXl.png" group-title="BRASIL", NatGeo 
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16356
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjWZoCG.png" group-title="BRASIL",A&E
-http://pfsv.io:80/40642758/08180/30227
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IM9jwRR.png" group-title="BRASIL",Discovery Chanel
-http://pfsv.io:80/40642758/08180/30260
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="BRASIL",Home & Held
-http://181.189.243.254:8000/play/a0ss/index.m3u8
+http://pfsv.io:80/7125938483/5158/30173.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="BRASIL",Futura
 https://tv.unisc.br/hls/test.m3u8
@@ -190,25 +152,46 @@ https://tv.unisc.br/hls/test.m3u8
 http://45.228.234.41:16000/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASIL",Globo New
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16262
+http://pfsv.io:80/7125938483/5158/50864.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/602px-Record_News_%28color%29.svg.png" group-title="BRASIL",Record News
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16406
+#EXTINF:-1 tvg-logo="http://p6.vc/VNC" group-title="BRASIL",Record News
+http://pfsv.io:80/7125938483/5158/30197.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png" group-title="BRASIL",Band News
-http://cdn.uptvx.live:80/Sandro6453/353830256453/17113
+#EXTINF:-1 tvg-logo="http://p6.vc/VNA" group-title="BRASIL",Band News
+http://pfsv.io:80/7125938483/5158/130229.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="BRASIL",Band Sport
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16113
+http://pfsv.io:80/7125938483/5158/130175.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w3omDUq.png" group-title="BRASIL",Jovem Pan News
+http://pfsv.io:80/7125938483/5158/98167.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w3omDUq.png" group-title="BRASIL",Jovem Pan News 2
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IX21Fuj.png" group-title="BRASIL",Viva
-http://pfsv.io:80/40642758/08180/130263
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="BRASIL",Lifetime
-http://cdn.uptvx.live:80/Sandro6453/353830256453/16331
+http://pfsv.io:80/7125938483/5158/130263.ts
 
 #EXTINF:-1 tvg-logo="http://p6.vc/VJT" group-title="BRASIL",Pantanal
 http://pfsv.io:80/ELISIO6854/SZ7343/116359
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/824/984/png-clipart-video-clothing-logo-car-sertanejo-label-mobile-phones.png" group-title="BRASIL",Certanejos
+http://pfsv.io:80/ELISIO6854/SZ7343/107096
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="BRASIL", Top Muscas Brasil MPB
+http://pfsv.io:80/ELISIO6854/SZ7343/107097
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="BRASIL", Top Muscas Brasil Spoty
+http://pfsv.io:80/7125938483/5158/107095.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="BRASIL", Top Muscas Brasil Gospel
+http://pfsv.io:80/7125938483/5158/107098.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="BRASIL", Top Muscas Brasil Catolicas
+http://pfsv.io:80/7125938483/5158/107099.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Os_Trapalh%C3%B5es_%28logotipo_1977-1984%29.webp/983px-Os_Trapalh%C3%B5es_%28logotipo_1977-1984%29.webp.png" group-title="BRASIL",Os Trapalhoes
+http://pfsv.io:80/ELISIO6854/SZ7343/43949
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/175/312/png-transparent-masterchef-logo-television-show-logo-chef-television-text-trademark-thumbnail.png" group-title="BRASIL",Master Chef
 http://pfsv.io:80/ELISIO6854/SZ7343/106789
@@ -221,15 +204,6 @@ http://pfsv.io:80/ELISIO6854/SZ7343/106899
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/02/Logotipo_do_Top_Chef_Brasil.jpg" group-title="BRASIL",Top Chef Brasil
 http://pfsv.io:80/ELISIO6854/SZ7343/107056
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/824/984/png-clipart-video-clothing-logo-car-sertanejo-label-mobile-phones.png" group-title="BRASIL",Certanejos
-http://pfsv.io:80/ELISIO6854/SZ7343/107096
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="BRASIL", Top Muscas Brasil
-http://pfsv.io:80/ELISIO6854/SZ7343/107097
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Os_Trapalh%C3%B5es_%28logotipo_1977-1984%29.webp/983px-Os_Trapalh%C3%B5es_%28logotipo_1977-1984%29.webp.png" group-title="BRASIL",Os Trapalhoes
-http://pfsv.io:80/ELISIO6854/SZ7343/43949
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRASIL",Tv Gazeta
 http://168.205.87.198:8555/live/shirley/123456/69.m3u8
@@ -244,7 +218,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://esrv.cc:80/images/49dae4143eb9fefca41088d36cc5b4a1.png" group-title="BRASIL",Canal do Boi
-http://cdn.uptvx.live:80/Sandro6453/353830256453/50853
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31064
 
 #EXTINF:-1 tvg-logo="https://brasilmaisagro.com.br/img/logo.png" group-title="BRASIL",Agro Brasil
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -257,9 +231,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="BRASIL",TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180426/whe/kisspng-ytv-high-definition-television-television-channel-youth-logo-5ae18cba49d3a2.4243678615247310663024.jpg" group-title="BRASIL",TV Juventud
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/468/981/png-transparent-1970s-1960s-1950s-1980s-retro-style-retro-food-holidays-text.png" group-title="BRASIL",Retrô
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
@@ -279,9 +250,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Totalmente_Demais_screenshot.png" group-title="BRASIL",Tv Que Demais
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Destak_logo.svg.png/revision/latest?cb=20180701181807" group-title="BRASIL",Tv Destak
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="BRASIL", All Sports HD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
@@ -291,15 +259,20 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.radiosabor.cl/wp-content/uploads/2021/02/logo_sbtv-300x300.png" group-title="BRASIL", Sabor Tv
 https://v1.tustreaming.cl/sabortv/index.m3u8?TecnoPlaylist
 
+
 #################### Bolovio ########################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 2
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4s8yEgGAFVwMSra1PvO0M0zAjGMX3AdC0jKpp-ZH4lP)/dm/3/x7wzxiw/s/live-3.m3u8
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262717
+or
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-r-UWiTMf4sRTnIfWva5O2fPqV_FUnOE8He2y-TjF7K)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 3
+http://hidra.live:80/ilseucuh/J52j6Fslu8/304335
+or
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2194.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 1 HD
@@ -408,9 +381,9 @@ https://v3.playerlatino.live/stream/m3u8/634
 
 #################### Deportes ########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/01biUEg.png" group-title="Deportes",T S 1.1
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv69xBqKVq63QnAkjxe3ETSs/ts
+http://playhispano.org:8080/userlw/led5120/261888
 or
-http://playhispano.org:8080/firesp11/2023C/195803
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv69xBqKVq63QnAkjxe3ETSs/ts
 or
 http://mastertv.pro:8080/live/Jona/wSrWvN/86096.ts
 or
@@ -423,9 +396,9 @@ or
 http://51.222.43.170:8001/dsuki-eno-ide-veca-sto-ti-zenu-jebavao-na-zadnjem-sjedistu-golfa-keca/Adb67xTgcFHx/263275
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCCZEIe.png" group-title="Deportes",T S 2.1
-http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
+http://playhispano.org:8080/userlw/led5120/261889
 or
-http://playhispano.org:8080/firesp11/2023C/195804
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
 or
 http://mastertv.pro:8080/live/Jona/wSrWvN/86098.ts
 or
@@ -439,6 +412,8 @@ http://tutv.online:2080/cliente313/wCfsyUZ6gtsk/72820
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S E1
+http://00322.xyz:8000/coachprato/40437757/148946
+or
 http://daleplaytv.vip:8080/Panterahol071@/RM3JP7qfzjuE/160820
 or
 http://51.222.43.170:8001/alejandrovazquez/X4djH716XG/263275
@@ -815,8 +790,21 @@ https://v3.playerlatino.live/stream/m3u8/649
 or
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/26937
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="Entretenimiento", Top Muscas Brasil
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/824/984/png-clipart-video-clothing-logo-car-sertanejo-label-mobile-phones.png" group-title="Entretenimiento",Certanejos
+http://pfsv.io:80/ELISIO6854/SZ7343/107096
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="Entretenimiento", Top Muscas Brasil MPB
 http://pfsv.io:80/ELISIO6854/SZ7343/107097
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="Entretenimiento", Top Muscas Brasil Spoty
+http://pfsv.io:80/7125938483/5158/107095.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="Entretenimiento", Top Muscas Brasil Gospel
+http://pfsv.io:80/7125938483/5158/107098.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="Entretenimiento", Top Muscas Brasil Catolicas
+http://pfsv.io:80/7125938483/5158/107099.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png", group-title="Entretenimiento", Telehit Musica
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/26938
@@ -1262,520 +1250,3 @@ http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/63499
 http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297792
 #EXTINF:-1 tvg-logo="" group-title="24/7",Mofos
 http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/95334
-
-
-
-################# TODAS AS FLORES #################
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 65
-https://pastebin.com/raw/J0dPWCnC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 66
-https://pastebin.com/raw/RDzu2D6z
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 67
-https://pastebin.com/raw/S0mQEzmr
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 68
-https://pastebin.com/raw/vfAq6DCC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 69
-https://pastebin.com/raw/5a35FWva
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 70
-https://pastebin.com/raw/S7AD4msu
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 71
-https://pastebin.com/raw/9nKiQ8N6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 72
-https://pastebin.com/raw/rgpADF2H
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 73
-https://pastebin.com/raw/pRNPcfHQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 74
-https://pastebin.com/raw/9xaQxKZ2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 75
-https://pastebin.com/raw/mkQhy2F7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 76
-https://pastebin.com/raw/rsrJcAeY
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 77
-https://pastebin.com/raw/u5WfFFBL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 78
-https://pastebin.com/raw/Njaxzm6L
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 79
-https://pastebin.com/raw/GCdcZJ99
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 80
-https://pastebin.com/raw/Y2y1JaTd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 81
-https://pastebin.com/raw/ANXwjr3i
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 82
-https://pastebin.com/raw/EE58Yi08
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 83
-https://pastebin.com/raw/V98DBirQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 84
-https://pastebin.com/raw/TFQCjwCz
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/Todas_as_Flores.jpg" group-title="TODAS AS FLORES" , CAP 85
-https://pastebin.com/raw/ixDr3umi
-
-
-################# Cordel Encantado #################
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 1
-http://clienteworld.com:80/series/claud123/claud123/13874546.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 2
-http://clienteworld.com:80/series/claud123/claud123/13874547.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 3
-http://clienteworld.com:80/series/claud123/claud123/13874548.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 4
-http://clienteworld.com:80/series/claud123/claud123/13874549.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 5
-http://clienteworld.com:80/series/claud123/claud123/13874550.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 6
-http://clienteworld.com:80/series/claud123/claud123/13874551.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 7
-http://clienteworld.com:80/series/claud123/claud123/13874552.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 8
-http://clienteworld.com:80/series/claud123/claud123/13874553.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 9
-http://clienteworld.com:80/series/claud123/claud123/13874554.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 10
-http://clienteworld.com:80/series/claud123/claud123/13874555.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 11
-http://clienteworld.com:80/series/claud123/claud123/13874556.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 12
-http://clienteworld.com:80/series/claud123/claud123/13874557.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 13
-http://clienteworld.com:80/series/claud123/claud123/13874558.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 14
-http://clienteworld.com:80/series/claud123/claud123/13874559.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 15
-http://clienteworld.com:80/series/claud123/claud123/13874560.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 16
-http://clienteworld.com:80/series/claud123/claud123/13874561.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 17
-http://clienteworld.com:80/series/claud123/claud123/13874562.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 18
-http://clienteworld.com:80/series/claud123/claud123/13874563.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 19
-http://clienteworld.com:80/series/claud123/claud123/13874564.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 20
-http://clienteworld.com:80/series/claud123/claud123/13874565.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 21
-http://clienteworld.com:80/series/claud123/claud123/13874566.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 22
-http://clienteworld.com:80/series/claud123/claud123/13874567.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 23
-http://clienteworld.com:80/series/claud123/claud123/13874568.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 24
-http://clienteworld.com:80/series/claud123/claud123/13874569.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 25
-http://clienteworld.com:80/series/claud123/claud123/13874570.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 26
-http://clienteworld.com:80/series/claud123/claud123/13874571.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 27
-http://clienteworld.com:80/series/claud123/claud123/13874572.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 28
-http://clienteworld.com:80/series/claud123/claud123/13874573.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 29
-http://clienteworld.com:80/series/claud123/claud123/13874574.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 30
-http://clienteworld.com:80/series/claud123/claud123/13874575.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 31
-http://clienteworld.com:80/series/claud123/claud123/13874576.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 32
-http://clienteworld.com:80/series/claud123/claud123/13874577.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 33
-http://clienteworld.com:80/series/claud123/claud123/13874578.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 34
-http://clienteworld.com:80/series/claud123/claud123/13874579.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 35
-http://clienteworld.com:80/series/claud123/claud123/13874580.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 36
-http://clienteworld.com:80/series/claud123/claud123/13874581.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 37
-http://clienteworld.com:80/series/claud123/claud123/13874582.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 38
-http://clienteworld.com:80/series/claud123/claud123/13874583.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 39
-http://clienteworld.com:80/series/claud123/claud123/13874584.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 40
-http://clienteworld.com:80/series/claud123/claud123/13874585.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 41
-http://clienteworld.com:80/series/claud123/claud123/13874586.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 42
-http://clienteworld.com:80/series/claud123/claud123/13874587.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 43
-http://clienteworld.com:80/series/claud123/claud123/13874588.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 44
-http://clienteworld.com:80/series/claud123/claud123/13874589.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 45
-http://clienteworld.com:80/series/claud123/claud123/13874590.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 46
-http://clienteworld.com:80/series/claud123/claud123/13874591.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 47
-http://clienteworld.com:80/series/claud123/claud123/13874592.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 48
-http://clienteworld.com:80/series/claud123/claud123/13874593.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 49
-http://clienteworld.com:80/series/claud123/claud123/13874594.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 50
-http://clienteworld.com:80/series/claud123/claud123/13874595.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 51
-http://clienteworld.com:80/series/claud123/claud123/13874596.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 52
-http://clienteworld.com:80/series/claud123/claud123/13874597.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 53
-http://clienteworld.com:80/series/claud123/claud123/13874598.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 54
-http://clienteworld.com:80/series/claud123/claud123/13874599.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 55
-http://clienteworld.com:80/series/claud123/claud123/13874600.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 56
-http://clienteworld.com:80/series/claud123/claud123/13874601.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 57
-http://clienteworld.com:80/series/claud123/claud123/13874602.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 58
-http://clienteworld.com:80/series/claud123/claud123/13874603.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 59
-http://clienteworld.com:80/series/claud123/claud123/13874604.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 60
-http://clienteworld.com:80/series/claud123/claud123/13874605.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 61
-http://clienteworld.com:80/series/claud123/claud123/13874606.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 62
-http://clienteworld.com:80/series/claud123/claud123/13874607.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 63
-http://clienteworld.com:80/series/claud123/claud123/13874608.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 64
-http://clienteworld.com:80/series/claud123/claud123/13874609.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 65
-http://clienteworld.com:80/series/claud123/claud123/13874610.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 66
-http://clienteworld.com:80/series/claud123/claud123/13874611.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 67
-http://clienteworld.com:80/series/claud123/claud123/13874612.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 68
-http://clienteworld.com:80/series/claud123/claud123/13874613.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 69
-http://clienteworld.com:80/series/claud123/claud123/13874614.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 70
-http://clienteworld.com:80/series/claud123/claud123/13874615.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 71
-http://clienteworld.com:80/series/claud123/claud123/13874616.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 72
-http://clienteworld.com:80/series/claud123/claud123/13874617.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 73
-http://clienteworld.com:80/series/claud123/claud123/13874618.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 74
-http://clienteworld.com:80/series/claud123/claud123/13874619.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 75
-http://clienteworld.com:80/series/claud123/claud123/13874620.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 76
-http://clienteworld.com:80/series/claud123/claud123/13874621.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 77
-http://clienteworld.com:80/series/claud123/claud123/13874622.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 78
-http://clienteworld.com:80/series/claud123/claud123/13874623.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 79
-http://clienteworld.com:80/series/claud123/claud123/13874624.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 80
-http://clienteworld.com:80/series/claud123/claud123/13874625.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 81
-http://clienteworld.com:80/series/claud123/claud123/13874626.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 82
-http://clienteworld.com:80/series/claud123/claud123/13874627.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 83
-http://clienteworld.com:80/series/claud123/claud123/13874628.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 84
-http://clienteworld.com:80/series/claud123/claud123/13874629.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 85
-http://clienteworld.com:80/series/claud123/claud123/13874630.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 86
-http://clienteworld.com:80/series/claud123/claud123/13874631.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 87
-http://clienteworld.com:80/series/claud123/claud123/13874632.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 88
-http://clienteworld.com:80/series/claud123/claud123/13874633.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 89
-http://clienteworld.com:80/series/claud123/claud123/13874634.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 90
-http://clienteworld.com:80/series/claud123/claud123/13874635.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 91
-http://clienteworld.com:80/series/claud123/claud123/13874636.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 92
-http://clienteworld.com:80/series/claud123/claud123/13874637.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 93
-http://clienteworld.com:80/series/claud123/claud123/13874638.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 94
-http://clienteworld.com:80/series/claud123/claud123/13874639.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 95
-http://clienteworld.com:80/series/claud123/claud123/13874640.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 96
-http://clienteworld.com:80/series/claud123/claud123/13874641.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 97
-http://clienteworld.com:80/series/claud123/claud123/13874642.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 98
-http://clienteworld.com:80/series/claud123/claud123/13874643.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 99
-http://clienteworld.com:80/series/claud123/claud123/13874644.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 100
-http://clienteworld.com:80/series/claud123/claud123/13874645.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 101
-http://clienteworld.com:80/series/claud123/claud123/13874646.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 102
-http://clienteworld.com:80/series/claud123/claud123/13874647.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 103
-http://clienteworld.com:80/series/claud123/claud123/13874648.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 104
-http://clienteworld.com:80/series/claud123/claud123/13874649.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 105
-http://clienteworld.com:80/series/claud123/claud123/13874650.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 106
-http://clienteworld.com:80/series/claud123/claud123/13874651.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 107
-http://clienteworld.com:80/series/claud123/claud123/13874652.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 108
-http://clienteworld.com:80/series/claud123/claud123/13874653.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 109
-http://clienteworld.com:80/series/claud123/claud123/13874654.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 110
-http://clienteworld.com:80/series/claud123/claud123/13874655.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 111
-http://clienteworld.com:80/series/claud123/claud123/13874656.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 112
-http://clienteworld.com:80/series/claud123/claud123/13874657.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 113
-http://clienteworld.com:80/series/claud123/claud123/13874658.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 114
-http://clienteworld.com:80/series/claud123/claud123/13874659.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 115
-http://clienteworld.com:80/series/claud123/claud123/13874660.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 116
-http://clienteworld.com:80/series/claud123/claud123/13874661.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 117
-http://clienteworld.com:80/series/claud123/claud123/13874662.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 118
-http://clienteworld.com:80/series/claud123/claud123/13874663.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 119
-http://clienteworld.com:80/series/claud123/claud123/13874664.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 120
-http://clienteworld.com:80/series/claud123/claud123/13874665.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 121
-http://clienteworld.com:80/series/claud123/claud123/13874666.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 122
-http://clienteworld.com:80/series/claud123/claud123/13874667.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 123
-http://clienteworld.com:80/series/claud123/claud123/13874668.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 124
-http://clienteworld.com:80/series/claud123/claud123/13874669.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 125
-http://clienteworld.com:80/series/claud123/claud123/13874670.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 126
-http://clienteworld.com:80/series/claud123/claud123/13874671.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 127
-http://clienteworld.com:80/series/claud123/claud123/13874672.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 128
-http://clienteworld.com:80/series/claud123/claud123/13874673.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 129
-http://clienteworld.com:80/series/claud123/claud123/13874674.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 130
-http://clienteworld.com:80/series/claud123/claud123/13874675.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 131
-http://clienteworld.com:80/series/claud123/claud123/13874676.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 132
-http://clienteworld.com:80/series/claud123/claud123/13874677.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 133
-http://clienteworld.com:80/series/claud123/claud123/13874678.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 134
-http://clienteworld.com:80/series/claud123/claud123/13874679.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 135
-http://clienteworld.com:80/series/claud123/claud123/13874680.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 136
-http://clienteworld.com:80/series/claud123/claud123/13874681.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 137
-http://clienteworld.com:80/series/claud123/claud123/13874682.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 138
-http://clienteworld.com:80/series/claud123/claud123/13874683.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 139
-http://clienteworld.com:80/series/claud123/claud123/13874684.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 140
-http://clienteworld.com:80/series/claud123/claud123/13874685.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 141
-http://clienteworld.com:80/series/claud123/claud123/13874686.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 142
-http://clienteworld.com:80/series/claud123/claud123/13874687.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/69/14/626914933ba14c62d4d3c75ccfb6e034.jpg" group-title="Cordel Encantado" , CAP 143
-http://clienteworld.com:80/series/claud123/claud123/13874688.mp4
-
-
-################# A Favorita #################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 1
-http://clienteworld.com:80/series/claud123/claud123/13873404.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 2
-http://clienteworld.com:80/series/claud123/claud123/13873405.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 3
-http://clienteworld.com:80/series/claud123/claud123/13873406.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 4
-http://clienteworld.com:80/series/claud123/claud123/13873407.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 5
-http://clienteworld.com:80/series/claud123/claud123/13873408.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 6
-http://clienteworld.com:80/series/claud123/claud123/13873409.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 7
-http://clienteworld.com:80/series/claud123/claud123/13873410.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 8
-http://clienteworld.com:80/series/claud123/claud123/13873411.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 9
-http://clienteworld.com:80/series/claud123/claud123/13873412.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 10
-http://clienteworld.com:80/series/claud123/claud123/13873413.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 11
-http://clienteworld.com:80/series/claud123/claud123/13873414.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 12
-http://clienteworld.com:80/series/claud123/claud123/13873415.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 13
-http://clienteworld.com:80/series/claud123/claud123/13873416.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 14
-http://clienteworld.com:80/series/claud123/claud123/13873417.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 15
-http://clienteworld.com:80/series/claud123/claud123/13873418.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 16
-http://clienteworld.com:80/series/claud123/claud123/13873419.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 17
-http://clienteworld.com:80/series/claud123/claud123/13873420.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 18
-http://clienteworld.com:80/series/claud123/claud123/13873421.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 19
-http://clienteworld.com:80/series/claud123/claud123/13873422.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 20
-http://clienteworld.com:80/series/claud123/claud123/13873423.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 21
-http://clienteworld.com:80/series/claud123/claud123/13873433.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 22
-http://clienteworld.com:80/series/claud123/claud123/13873434.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 23
-http://clienteworld.com:80/series/claud123/claud123/13873435.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 24
-http://clienteworld.com:80/series/claud123/claud123/13873436.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 25
-http://clienteworld.com:80/series/claud123/claud123/13873437.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 26
-http://clienteworld.com:80/series/claud123/claud123/13873438.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 27
-http://clienteworld.com:80/series/claud123/claud123/13873439.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 28
-http://clienteworld.com:80/series/claud123/claud123/13873440.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 29
-http://clienteworld.com:80/series/claud123/claud123/13873441.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 30
-http://clienteworld.com:80/series/claud123/claud123/13873442.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 31
-http://clienteworld.com:80/series/claud123/claud123/13873443.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 32
-http://clienteworld.com:80/series/claud123/claud123/13873444.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 33
-http://clienteworld.com:80/series/claud123/claud123/13873445.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 34
-http://clienteworld.com:80/series/claud123/claud123/13873446.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 35
-http://clienteworld.com:80/series/claud123/claud123/13873447.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 36
-http://clienteworld.com:80/series/claud123/claud123/13873448.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 37
-http://clienteworld.com:80/series/claud123/claud123/13873449.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 38
-http://clienteworld.com:80/series/claud123/claud123/13873450.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 39
-http://clienteworld.com:80/series/claud123/claud123/13873451.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 40
-http://clienteworld.com:80/series/claud123/claud123/13873452.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 41
-http://clienteworld.com:80/series/claud123/claud123/13873453.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 42
-http://clienteworld.com:80/series/claud123/claud123/13873454.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 43
-http://clienteworld.com:80/series/claud123/claud123/13873455.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 44
-http://clienteworld.com:80/series/claud123/claud123/13873456.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 45
-http://clienteworld.com:80/series/claud123/claud123/13873457.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 46
-http://clienteworld.com:80/series/claud123/claud123/13873458.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 47
-http://clienteworld.com:80/series/claud123/claud123/13873459.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 48
-http://clienteworld.com:80/series/claud123/claud123/13873460.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 49
-http://clienteworld.com:80/series/claud123/claud123/13873461.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 50
-http://clienteworld.com:80/series/claud123/claud123/13873462.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 51
-http://clienteworld.com:80/series/claud123/claud123/13874832.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 52
-http://clienteworld.com:80/series/claud123/claud123/13874833.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 53
-http://clienteworld.com:80/series/claud123/claud123/13874834.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 54
-http://clienteworld.com:80/series/claud123/claud123/13874835.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 55
-http://clienteworld.com:80/series/claud123/claud123/13874836.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 56
-http://clienteworld.com:80/series/claud123/claud123/13874837.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 57
-http://clienteworld.com:80/series/claud123/claud123/13874838.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 58
-http://clienteworld.com:80/series/claud123/claud123/13874839.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 59
-http://clienteworld.com:80/series/claud123/claud123/13874840.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiocyGl.png" group-title="A Favorita" , CAP 60
-http://clienteworld.com:80/series/claud123/claud123/13874841.mp4
-
-################# Santo maldito #################
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Santo_maldito_Serie_de_TV-309875628-large.jpg" group-title="Santo maldito" , CAP 1
-http://clienteworld.com:80/series/claud123/claud123/138767860.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Santo_maldito_Serie_de_TV-309875628-large.jpg" group-title="Santo maldito" , CAP 2
-http://clienteworld.com:80/series/claud123/claud123/138767861.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Santo_maldito_Serie_de_TV-309875628-large.jpg" group-title="Santo maldito" , CAP 3
-http://clienteworld.com:80/series/claud123/claud123/138767862.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Santo_maldito_Serie_de_TV-309875628-large.jpg" group-title="Santo maldito" , CAP 4
-http://clienteworld.com:80/series/claud123/claud123/138767863.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Santo_maldito_Serie_de_TV-309875628-large.jpg" group-title="Santo maldito" , CAP 5
-http://clienteworld.com:80/series/claud123/claud123/138767864.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Santo_maldito_Serie_de_TV-309875628-large.jpg" group-title="Santo maldito" , CAP 6
-http://clienteworld.com:80/series/claud123/claud123/138767865.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Santo_maldito_Serie_de_TV-309875628-large.jpg" group-title="Santo maldito" , CAP 7
-http://clienteworld.com:80/series/claud123/claud123/138767866.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Santo_maldito_Serie_de_TV-309875628-large.jpg" group-title="Santo maldito" , CAP 8
-http://clienteworld.com:80/series/claud123/claud123/138767867.mp4
-
-################# Santo maldito #################
-
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 1
-http://clienteworld.com:80/series/claud123/claud123/138760357.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 2
-http://clienteworld.com:80/series/claud123/claud123/138760358.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 3
-http://clienteworld.com:80/series/claud123/claud123/138760359.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 4
-http://clienteworld.com:80/series/claud123/claud123/138760360.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 5
-http://clienteworld.com:80/series/claud123/claud123/138760361.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 6
-http://clienteworld.com:80/series/claud123/claud123/138760362.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 7
-http://clienteworld.com:80/series/claud123/claud123/138760363.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 8
-http://clienteworld.com:80/series/claud123/claud123/138760364.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 9
-http://clienteworld.com:80/series/claud123/claud123/138760365.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 10
-http://clienteworld.com:80/series/claud123/claud123/138760366.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 11
-http://clienteworld.com:80/series/claud123/claud123/138760367.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 12
-http://clienteworld.com:80/series/claud123/claud123/138760368.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 13
-http://clienteworld.com:80/series/claud123/claud123/138760369.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 14
-http://clienteworld.com:80/series/claud123/claud123/138760370.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 15
-http://clienteworld.com:80/series/claud123/claud123/138760371.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 16
-http://clienteworld.com:80/series/claud123/claud123/138761626.mp4
-#EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/11/gangspop.png" group-title="Gangues de Londres" , CAP 17
-http://clienteworld.com:80/series/claud123/claud123/138761627.mp4
