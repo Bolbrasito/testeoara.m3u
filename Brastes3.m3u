@@ -266,14 +266,16 @@ https://v1.tustreaming.cl/sabortv/index.m3u8?TecnoPlaylist
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 2
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262717
+http://tutv.online:2080/jesus25jul/SRndYAJqayyj/110494
 or
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-r-UWiTMf4sRTnIfWva5O2fPqV_FUnOE8He2y-TjF7K)/dm/3/x7wzxiw/s/live-3.m3u8
+http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/262717
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="BOLIVIA",Unitel 3
-http://hidra.live:80/ilseucuh/J52j6Fslu8/304335
-or
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2194.m3u8
+or
+http://xcm.budtv-ultra.com:25461/live/Daniel/0000/2194.m3u8
+or
+http://hidra.live:80/ilseucuh/J52j6Fslu8/304335
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="BOLIVIA",ATB 1 HD
 http://186.121.206.197/live/daniel/index.m3u8
@@ -359,7 +361,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/i
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ELTRECE/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="BOLIVIA",Las Estrellas
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153528
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/153528
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="BOLIVIA",Telemundo
 http://45.166.92.22:58001/play/a00r/index.m3u8
@@ -389,13 +391,17 @@ http://mastertv.pro:8080/live/Jona/wSrWvN/86096.ts
 or
 http://sdmx.us:25461/GarinEdgar1/hDLy66SxvPBY/155634
 or
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/3750
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/3750
 or
 http://starfamily.vip:8080/armando16may/5w6K6rSjmDLL/434594
 or
 http://51.222.43.170:8001/dsuki-eno-ide-veca-sto-ti-zenu-jebavao-na-zadnjem-sjedistu-golfa-keca/Adb67xTgcFHx/263275
+or
+http://tutv.online:2080/jesus25jul/SRndYAJqayyj/72820
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCCZEIe.png" group-title="Deportes",T S 2.1
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153977
+or
 http://playhispano.org:8080/userlw/led5120/261889
 or
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvwUaFBIdtVQ6XzylSgaOlSU/ts
@@ -414,6 +420,8 @@ http://tutv.online:2080/cliente313/wCfsyUZ6gtsk/72820
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S E1
 http://00322.xyz:8000/coachprato/40437757/148946
 or
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153977
+or
 http://daleplaytv.vip:8080/Panterahol071@/RM3JP7qfzjuE/160820
 or
 http://51.222.43.170:8001/alejandrovazquez/X4djH716XG/263275
@@ -431,16 +439,21 @@ or
 http://tutv.online:2080/cliente313/wCfsyUZ6gtsk/72821
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S E2
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/3746
+or
 http://51.222.43.170:8001/pacorojas/ayy9fe8qSWMt/263275
 or
 http://arboltv.xyz:8080/GaNgyv4NRX/ujbSeCkCsvDb/157688
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCA6Bs7.png" group-title="Deportes",T S 1.2
-
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/3750
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njAfYXv.png" group-title="Deportes",T S 2.2
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/3748
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6UJdQC.png" group-title="Deportes",T S E3
+http://tutv.online:2080/jesus25jul/SRndYAJqayyj/72820
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png", group-title="Deportes", Espn Premier
 https://v3.playerlatino.live/stream/m3u8/952
@@ -485,13 +498,13 @@ https://v3.playerlatino.live/stream/m3u8/512
 https://v3.playerlatino.live/stream/m3u8/754
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhQGzLW.png", group-title="Deportes", D Sports
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1643
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/166831
 
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png", group-title="Deportes", D Sports 2
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1644
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/154271
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/297-2974594_directv-sports-plus-logo-hd-png-download.png", group-title="Deportes", D Sports +
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1645
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/154276
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4RLSzE0.png" group-title="Deportes",TyC sports
 https://v3.playerlatino.live/stream/m3u8/274
@@ -502,7 +515,7 @@ http://45.166.92.22:58001/play/a04d/index.m3u8
 https://v3.playerlatino.live/stream/m3u8/509
 
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg", group-title="Deportes", Gol TV
-http://svtv.xyz:8080/sandra30ab/bBZqtAE/124535
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/154242
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", group-title="Deportes", TUDN
 https://v3.playerlatino.live/stream/m3u8/801
@@ -513,7 +526,7 @@ http://svtv.xyz:8080/sandra30ab/bBZqtAE/291857
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/real-madrid-logo-png/real-madrid-logo-real-madrid-centenario-logo-png-transparent-svg-vector-bie-supply-16.png", group-title="Deportes", Real Madrid Tv
-http://svtv.xyz:8080/sandra30ab/bBZqtAE/87078
+
 
 #EXTINF:-1 tvg-logo="https://tvguia.info/wp-content/uploads/2021/11/Barca-TV.png", group-title="Deportes", Barcelona Tv
 
@@ -563,8 +576,6 @@ https://v3.playerlatino.live/stream/m3u8/187
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZB3XhQ77/prem-discovery-theater.png", group-title="Entretenimiento", Discovery Theater
-http://179.1.64.211:8000/play/a00t/index.m3u8
-or
 https://v3.playerlatino.live/stream/m3u8/27
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/comedy-central-logo-E109A89EBB-seeklogo.com.png", group-title="Entretenimiento", Comedy Central
@@ -584,7 +595,7 @@ or
 https://v3.playerlatino.live/stream/m3u8/642
 
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/490b2834e65737c1fce95e468cc8b8bf.png", group-title="Entretenimiento", H2
-http://svtv.xyz:8080/sandra30ab/bBZqtAE/292857
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/1062
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M6M7nyv/prem-e-entertainment-television.png", group-title="Entretenimiento", E!
 http://45.166.92.22:58001/play/a00n/index.m3u8
@@ -592,7 +603,7 @@ or
 https://v3.playerlatino.live/stream/m3u8/483
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png", group-title="Entretenimiento", Mas Chic
-http://svtv.xyz:8080/sandra30ab/bBZqtAE/31071
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/26688
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Trutv-oficial.png", group-title="Entretenimiento", True tv 
 https://v3.playerlatino.live/stream/m3u8/501
@@ -608,7 +619,7 @@ or
 http://svtv.xyz:8080/sandra30ab/bBZqtAE/24165
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/223-2234210_univision-tlnovelas-2013-univision-tlnovelas-logo.png", group-title="Entretenimiento", TlNoveleas Univision
-http://svtv.xyz:8080/sandra30ab/bBZqtAE/56997
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/99083
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png", group-title="Entretenimiento", Pasiones
 http://45.166.92.22:58001/play/a01q/index.m3u8
@@ -619,8 +630,6 @@ https://v3.playerlatino.live/stream/m3u8/755
 http://45.5.117.182:8000/play/a0gk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png", group-title="Entretenimiento", Corazon
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/1332
-or
 https://v3.playerlatino.live/stream/m3u8/834
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png", group-title="Entretenimiento", Unicable
@@ -734,7 +743,7 @@ https://v3.playerlatino.live/stream/m3u8/498
 http://45.166.92.22:58001/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vgcd6RSD/prem-tbs.png", group-title="Entretenimiento", TBS
-http://179.1.64.211:8000/play/a01z/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/171
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png", group-title="Entretenimiento", AMC
 https://v3.playerlatino.live/stream/m3u8/475
@@ -746,29 +755,29 @@ https://v3.playerlatino.live/stream/m3u8/981
 https://v3.playerlatino.live/stream/m3u8/648
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153813
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153813
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153814
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153822
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
 https://v3.playerlatino.live/stream/m3u8/684
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
 https://v3.playerlatino.live/stream/m3u8/1005
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153815
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153814
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153816
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153815
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153817
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153816
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153818
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153817
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153819
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153818
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153820
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153819
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153821
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153820
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/018/107/390/original/4k-ultra-hd-resolution-sign-icon-png.png", group-title="Entretenimiento", Cine 4k
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/153822
+http://tv.kis2.xyz:43201/Hectornew/KNeCF7tk2t/153821
 
 ######################## Musica ########################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png", group-title="Entretenimiento", bandmax
@@ -788,7 +797,7 @@ http://45.166.92.22:58001/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Telehit_logo_2014.png", group-title="Entretenimiento", Telehit
 https://v3.playerlatino.live/stream/m3u8/649
 or
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/26937
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/26937
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/824/984/png-clipart-video-clothing-logo-car-sertanejo-label-mobile-phones.png" group-title="Entretenimiento",Certanejos
 http://pfsv.io:80/ELISIO6854/SZ7343/107096
@@ -805,9 +814,8 @@ http://pfsv.io:80/7125938483/5158/107098.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Brazil_Flag_Music_Icon.png", group-title="Entretenimiento", Top Muscas Brasil Catolicas
 http://pfsv.io:80/7125938483/5158/107099.ts
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png", group-title="Entretenimiento", Telehit Musica
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/26938
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/26938
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", group-title="Entretenimiento", Htv
 http://45.166.92.22:58001/play/a051/index.m3u8
@@ -1016,21 +1024,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons
 https://v3.playerlatino.live/stream/m3u8/524
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 2
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37848
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37848
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Looney-Tunes-PNG-Background.png" group-title="24/7",Looney Toons 3
 https://v3.playerlatino.live/stream/m3u8/845
 
 
 #EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-Clipart-Background.png" group-title="24/7",Tom Y Jerry
-http://hplay.xyz:80/hldoudby/qubRsmkm/35484
+
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/12/Woody-woodpecker.png" group-title="24/7",Pajaro Loco
 http://hplay.xyz:80/hldoudby/qubRsmkm/58322
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/422/7/png-clipart-popeye-the-sailor-man-popeye-rush-for-spinach-popeye-village-t-shirt-popeye-comics-child.png" group-title="24/7",Popeye
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37855
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37855
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ymPCPb/Sin-t-tulo-1.png" group-title="24/7",LA PANTERA ROSA
 http://hplay.xyz:80/hldoudby/qubRsmkm/34443
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Flintstones.png/640px-The_Flintstones.png" group-title="24/7",LOS PICA PIEDRAS
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37854
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37854
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON
 https://v3.playerlatino.live/stream/m3u8/894
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON 2
@@ -1038,23 +1046,23 @@ https://v3.playerlatino.live/stream/m3u8/895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON 3
 https://v3.playerlatino.live/stream/m3u8/896
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wS7BtFR/Sin-t-tulo-1.png" group-title="24/7",LOS SIMPSON Nuevos
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37758
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37758
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" group-title="24/7",EL CHAVO DEL 8
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37761
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37761
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xswdnRV/Sin-t-tulo-1.png" group-title="24/7",CORAJE EL PERRO COBARDE
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37882
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37882
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FhLJMz/Sin-t-tulo-1.png" group-title="24/7",FUTURAMA
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37835
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37835
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37816
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37816
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Pelis
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/119556
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/119556
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Z (Cell)
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37826
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37826
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Z (Frezzer)
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37812
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37812
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL Z (Majin Buu)
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37813
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37813
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KDncQrT/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL SUPER
 http://hplay.xyz:80/hldoudby/qubRsmkm/35528
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n3RZgJy/Sin-t-tulo-1.png" group-title="24/7",DRAGON BALL GT
@@ -1064,11 +1072,11 @@ http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37825
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130505181423/doblaje/es/images/1/10/Puerquisimo_chancho.png" group-title="24/7",La Casa de los dibujos 2
 http://51.222.108.195:25461/0014497A076E/XtrmWin69/14296
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2/Digimon-Logo-PNG-Free-Download.png" group-title="24/7",Digimon
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37814
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37814
 #EXTINF:-1 tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn8FGtm7y1PDiY4IllKtYWY8.png" group-title="24/7",Ricky Y Morty
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37850
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TD73SK/Sin-t-tulo-1.png" group-title="24/7",CABALLEROS DEL ZODIACO
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37815
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37815
 #EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1629257861286.png" group-title="24/7",Yu-gi oh
 https://v3.playerlatino.live/stream/m3u8/664
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MNMLczJ/Sin-t-tulo-1.png" group-title="24/7",SOUTH PARK
@@ -1080,29 +1088,29 @@ http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37866
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/943/790/png-clipart-adventure-time-adventure-time.png" group-title="24/7",Hora De Aventura
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37858
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/943/790/png-clipart-adventure-time-adventure-time.png" group-title="24/7",Hora De Aventura 2
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37858
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37858
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/824-8242823_mordecai-and-rigby-rigby-regular-show-png.png" group-title="24/7",Un Show mas
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/37881
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/824-8242823_mordecai-and-rigby-rigby-regular-show-png.png" group-title="24/7",Un Show mas 2
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37881
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37881
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmV9Lp6/Sin-t-tulo-1.png" group-title="24/7",SUPER CAMPEONES
 http://hplay.xyz:80/hldoudby/qubRsmkm/58223
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/12/Walt-Disney-PNG-Clipart.png" group-title="24/7",Movies Walt Disney
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/144553
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/144553
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/419/220/png-clipart-logo-marvel-comics-marvel-entertainment-marvel-studios-others-comics-avengers-thumbnail.png" group-title="24/7",Marvel Pelis
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37907
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37907
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DC_Comics_logo.png/768px-DC_Comics_logo.png" group-title="24/7",DC Pelis
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37916
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37916
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/919/629/png-transparent-spongebob-patrick-cartoons-spongebob.png" group-title="24/7",Bob Esponja
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/211754
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/211754
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f5/ff/0c/f5ff0ce25754b29a8d60dd53995e1130.jpg" group-title="24/7",Batman
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/60048
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/60048
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/865/262/png-transparent-cartoon-network-wikia-sexxxy-eddy-cartoon-fictional-character-cartoon-network-thumbnail.png" group-title="24/7",Ed, Edd y Eddy
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37853
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37853
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/548-5481824_codename-kids-next-door.png" group-title="24/7",Los chicos del barrio
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37856
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37856
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/273-2735910_alf-logo-png-download-alf-logo-transparent-png.png" group-title="24/7",Alf
-http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/37766
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/37766
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/930/894/png-transparent-a-game-of-thrones-logo-emblem-font-game-of-trones-game-emblem-text-thumbnail.png" group-title="24/7",Juego de tronos
 http://tv.proyect1.xyz:39001/raulaguilar1962022/iisOqXr3kU/63763
 
@@ -1250,3 +1258,476 @@ http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/63499
 http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/297792
 #EXTINF:-1 tvg-logo="" group-title="24/7",Mofos
 http://iptvtree.net:8080/365c2123/xAqjp6TmV2ahgCHY/95334
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/s1DuBfFv5VjDzpc4KV6SzSSVh4U.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rjM4hZGeTSG1ckxWa91DBUIWD5S.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/9G3P1pJ7ZnSBDSpRuYkGl0EbeU1.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2nRIQc1kKfS5RTkLeVQYJauW3QU.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8AWWVzfdnTKCzM96l6hnoSLwggN.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/1RjEUBkw9Xnsq8doMw9K2NnRmsX.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/buUKHeFfTDQaw7nsyKuU9uWe6xd.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/enAcz1ZXfA7ZAx55GXzpTbmy44d.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/8rwNfpYvGGyZIC9dQKP2fzbeCt8.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/d7fYUtjRBiuCSLNaodHnZbb8Yvy.jpg" group-title="SERIES-CRIMEN",Mr. Robot S01 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3j8JM95UHa14dX1TlIGh6FXMgVk.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/krcZKQOF095e1FCPWQzTwrtRO0v.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iSKjRqP0nfBjS1rP4OOT2wWhgYN.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/6vawQQd6XOlllMZXrr6J05hPTwj.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/yxlfZiBHYoX3QFfoMiYV2U5VuPM.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/cRHPHyhAjy6EDdg5TrMwtw1fNuc.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/xvvFhZsUqgxf2FqzJLyCNqnewaC.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/2YfhnDVZDjd4UGGjRupDVBsYxmJ.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/tBmYAbymsicnZM5r1LLZvm2uomY.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/eKH4AZ1PvPiUhSH0EmU8IZl9Ixq.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/iJh2GC7fyIQv8V3MYVoVLcUjeIT.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/d7NrD48ezLy8jBhyQid3Xd32xS9.jpg" group-title="SERIES-CRIMEN",Mr. Robot S02 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8ZvIFsT3GFHjaiZ7JLaDD7co5F3.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/k2Ktv1CgT8UZif5rENxBf395qSN.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pmSB2PUL83hUtxUXaCHJldKhIpt.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/k0sZgzE7TYSRUI4zWYdXQee1GNZ.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/e6ZSWEtw37SiULhw96BBNq7iwTb.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/jrQbrrQBARKHClODO8bH8gDxBwW.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/82uEJqvH6FbiqipG9IYztePMRbO.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/wlpJLbBqQKhVepnAuFxaK9h8cJd.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/lE50225dvp4QkSCMs7OasuPCqep.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/s8khPwW6y7737YAJwfdzcFhpAUy.jpg" group-title="SERIES-CRIMEN",Mr. Robot S03 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7Z8lLUOh8cXPhJd6l41N97hbBOr.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5c1yZlB1P3kegLlFW2tRlFmTfze.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uQX7SqZX40vfow0ZuPp1IUbN5sb.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wb8zbWEBtTlSpd0zvJhZ0qDWTXe.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/npveuBuAJ59XxBa63VJVwD3h8nC.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/g3E7JUyz5TmCKFZ6vsyatzZMEkD.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/tIWS26YdBFzFA3EdpSmGlShfrlv.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E08" tvg-logo="https://image.tmdb.org/t/p/w300/m7mGpRE4Ngzm44syAz4j8IjlGlk.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/nYznCs8h44uERN0NDUed1WESYb.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/yKYzhJ5uPwRMBc17b2nK1CYVRhs.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E11" tvg-logo="https://image.tmdb.org/t/p/w300/tfaDACXAgCQ3hJ9anRZldWzS4H8.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E12" tvg-logo="https://image.tmdb.org/t/p/w300/6FraUDA6zwGGXYlF17FFH5pfJtQ.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Robot S04 E13" tvg-logo="https://image.tmdb.org/t/p/w300/hnuTJOLHUj84IqyMQFyNDSSNv1e.jpg" group-title="SERIES-CRIMEN",Mr. Robot S04 E13
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/213584.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/tplu6cXP312IN5rrT5K81zFZpMd.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S01 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S01 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S01 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S01 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/11HGUikej3bARNmp44vEnkBel5K.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S01 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S01 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/i03Gc5a3kT2W6XlE836vHBxzjMv.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S02 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S02 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S02 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/koaGMtpxFhBt2SdSzZlgT9kDAu4.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S02 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/trUVc4nroLCWayW1Bl61uieY1ET.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S02 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S02 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/6RRRhM5ehUVb69KVMn9HQbN99iZ.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S03 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/cFGD6AaP4GXEROEQBAfFsKfSq9Q.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S03 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uo1SiLstmK9KFSHUh3tT9yVUofq.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S03 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/tcOWVbd1V46RRhbgNIGyTwwijne.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S03 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/4A168wOqSidu25pOmC7a0vLITkP.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S03 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/prDRv2l7hjooZWNFMui9Ll7Plf5.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S03 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/lbxpucGwT4OIykqe0O9E9LnA9wV.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S04 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/cXslOUj3dI481fLi96XraGFpul4.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S04 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7hICJbOPyaKGNwI6w10fbZc7zqq.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S04 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/9W5UtzSNPA4YSuRZdhC2tyiFkah.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S04 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/gvfJVdkEW0reVa1DoLqBSWadMxG.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S04 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/oznSCw2RggRbxHIQsFSOM9it5pV.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S04 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S05 E01" tvg-logo="https://image.tmdb.org/t/p/w300/fIgGfj0YWWH2rsS5XVtOjGdC5G2.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S05 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S05 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9ajQxbY28xuFPUoPfNXH2f8Cyi4.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S05 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S05 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lPhtB5KxpNAR1SOhj7eydgrAaXX.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S05 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S05 E04" tvg-logo="https://image.tmdb.org/t/p/w300/9o9Obi0uzcAksnocm14AViXhYZu.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S05 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S05 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2EvMNs9p7NEzV4VUQioUL2GTU2W.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S05 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders S05 E06" tvg-logo="https://image.tmdb.org/t/p/w300/tK75oU0JfkCAZfC4QWuA1uPDMDg.jpg" group-title="SERIES-CRIMEN",Peaky Blinders S05 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/214340.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/thaMHLz5l6TVL8R4EzaBkjn2EZA.jpg" group-title="SERIES-DRAMA",Chernobyl S01 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/219786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kVsUEtOOYeLRmABVuZztl4k9onO.jpg" group-title="SERIES-DRAMA",Chernobyl S01 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/219787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/f3AgIEfGWWO3qNoxymagUqCBaE8.jpg" group-title="SERIES-DRAMA",Chernobyl S01 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/219788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xV2eVT4ejGhVn9OIMCo4uBOhmCC.jpg" group-title="SERIES-DRAMA",Chernobyl S01 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/219789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg" group-title="SERIES-DRAMA",Chernobyl S01 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/219790.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4ZZ5pbzX93OawxWvnZ6LkSvHxhF.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/wnzjHQQ262mhiK2f5NyQZsxeV55.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8Fl90lYax8Bn7x9ASkX2ZFZUzcf.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/t6Y8pPzkAsJxWBYufPoeHEzxAil.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/nfogeWHA23nyoqeFKbpScmZ3t5h.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/zpmYE6v8jK3jzxvFkG8uLlSVpWt.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/9jgmbdBHAcbRKpV1XeHqIN7YuPs.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E13
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E14
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E15
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/mWuNjpKMnDQdsuOc1nM6n6IC2uz.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E16
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E17
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/h144JG0SNhcvjzlht2WnIYZY2Zg.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E18
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E19
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/Ar4KVg5eqBt8DPaRZMyW98cABdq.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E20
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E21
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E22" tvg-logo="https://image.tmdb.org/t/p/w300/euNu8z9CnQeQSUgIzwYoFMc3ze5.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E22
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E23
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E24" tvg-logo="https://image.tmdb.org/t/p/w300/tEnB9MufMDmFX1qouoDc06pLYyH.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E24
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E25
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E26" tvg-logo="https://image.tmdb.org/t/p/w300/wdnXK2xyjO9XxmbirjWx1pNG8SD.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E26
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E27
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E28
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S01 E29
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7WTzttsyGb6vTrqtqOZx5ZZI4Cf.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/hwW6Psl4SgpoUIc3RnDbhLORhnX.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/AovguBhj3WEFRDASe2jKo8u03Yo.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/AngaBniDXciHaLqs2rP0QUP9FXT.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/1hFvNQHQUC6Ggt8CG1laZxcpSiC.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/r0W3k8828mnwTde9NQTLVavE0Sc.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/dKoneln62ekUYNsdTGUNUnnX5Ny.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E13
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E14
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E15" tvg-logo="https://image.tmdb.org/t/p/w300/znnOpsK2MU3AU1yq0hsn2EiNoqa.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E15
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E16
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E17
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E18
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E19
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E20
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S02 E21
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/lsnMXpPASupPiE8JaiFgaswMTna.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/i92Mdycbzmlr1RvrjH3CpBtIfIY.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/12XRkEVLARpGrQ36VLWYkQKP1Qz.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/vAZ4lY0WdEbEa6UJSkYomLUAzfP.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/hH8de1VNx61LiSCDi8g7MOTVt6Z.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E11" tvg-logo="https://image.tmdb.org/t/p/w300/pkD7QHmCH8gxuTJ1j04GJnah9go.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E13
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E14
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E15
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E16
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E17
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E18
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg" group-title="SERIES-DRAMA",Luis Miguel: La Serie S03 E19
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221278.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/AkK4SDsdYQNiVEkQZ3GPphKYko4.jpg" group-title="SERIES-DRAMA",Vis a Vis: El Oasis S01 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/222351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ax8KCJN5UqolCMIZB5aI5VM8j7L.jpg" group-title="SERIES-DRAMA",Vis a Vis: El Oasis S01 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/222352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/hZyBJpkgEKaHvbyfMzauDWXviKy.jpg" group-title="SERIES-DRAMA",Vis a Vis: El Oasis S01 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/222353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xYoP23YozUiT5mLo1yaFUcbtaKc.jpg" group-title="SERIES-DRAMA",Vis a Vis: El Oasis S01 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/222354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/39JOkXztwkIPSBS1nxRsGpIZvj4.jpg" group-title="SERIES-DRAMA",Vis a Vis: El Oasis S01 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/222355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/c8W1eNi8v2DYsDensuFN72Ow57r.jpg" group-title="SERIES-DRAMA",Vis a Vis: El Oasis S01 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/222356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/xY2W6MTKkDjuCZBTr1LcmHWOvw.jpg" group-title="SERIES-DRAMA",Vis a Vis: El Oasis S01 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/222357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/wUz2FZ36epgtgWl5qMRO4MFdmRp.jpg" group-title="SERIES-DRAMA",Vis a Vis: El Oasis S01 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/222358.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/l2aA3MG8K3ItpwGc9yR0KMx6UBa.jpg" group-title="SERIES-DRAMA",Outlander S01 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mIYu27yHxaiZC6JNWtZCyszhQah.jpg" group-title="SERIES-DRAMA",Outlander S01 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/wXHNxptEjUV5955Ys7PGF5xeB99.jpg" group-title="SERIES-DRAMA",Outlander S01 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8Lv09m0cUHPsZONBndj48Ss8p76.jpg" group-title="SERIES-DRAMA",Outlander S01 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/Abh1b4imAADRlwGBzkLAqmD6oLK.jpg" group-title="SERIES-DRAMA",Outlander S01 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/vW8nKSE6JEkqgXSpgG4DiAbn5Ej.jpg" group-title="SERIES-DRAMA",Outlander S01 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/zYgeJGmDxftF48XHHn4uDaItRh5.jpg" group-title="SERIES-DRAMA",Outlander S01 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/3zCseRKwi6cGIwDxohqpxJyIJrA.jpg" group-title="SERIES-DRAMA",Outlander S01 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/9Jw4w7d3NngT0AFbVFE7fhIpUv5.jpg" group-title="SERIES-DRAMA",Outlander S01 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/hCJthrfUyROljs64gX9yMzRU2Ku.jpg" group-title="SERIES-DRAMA",Outlander S01 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/fQk2PG47uNysZpfF5529adSKhO0.jpg" group-title="SERIES-DRAMA",Outlander S01 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/sq368HrK9FRDRSgq4JJ6jSBby0l.jpg" group-title="SERIES-DRAMA",Outlander S01 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/qtjLZiz2KSw7K53PchbMh9bUbz4.jpg" group-title="SERIES-DRAMA",Outlander S01 E13
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/3oNDOJxUecqYBs0xfelfUAXLCwD.jpg" group-title="SERIES-DRAMA",Outlander S01 E14
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/n3wPpvriIwabyhX3ahBlOkzO4SV.jpg" group-title="SERIES-DRAMA",Outlander S01 E15
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/hjVGcjGgDodzcolFp4oTt3tzqdb.jpg" group-title="SERIES-DRAMA",Outlander S01 E16
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/xPwsqshyexFmowZK0KY3UwWbYER.jpg" group-title="SERIES-DRAMA",Outlander S02 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/pfRLVNeAlCjvLRuxLBEdxBMbUJl.jpg" group-title="SERIES-DRAMA",Outlander S02 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uFwQdQZJFDUpF4Fh0WPBqAVnF6t.jpg" group-title="SERIES-DRAMA",Outlander S02 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/4PVtzLmwcUvEDvvkD64A61kpBdQ.jpg" group-title="SERIES-DRAMA",Outlander S02 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/7KAmKgjWmP3Mw8xShUqju6MJhyv.jpg" group-title="SERIES-DRAMA",Outlander S02 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/wEMyUyXIShYKhHuHEScLQ1YKk15.jpg" group-title="SERIES-DRAMA",Outlander S02 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/gSZ6qYmEeCoFPbyjVoTIYzm92Tv.jpg" group-title="SERIES-DRAMA",Outlander S02 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/ofVsWicHNtC4TDtBkD3xo2VMACW.jpg" group-title="SERIES-DRAMA",Outlander S02 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/x3TgENGmWGXqXI3zshGbvqep9XE.jpg" group-title="SERIES-DRAMA",Outlander S02 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/dsEquvdNqE4C45hqOALD92di3kv.jpg" group-title="SERIES-DRAMA",Outlander S02 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/jFHO3XIdiinemGmildD9mmBlehl.jpg" group-title="SERIES-DRAMA",Outlander S02 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/p4KLo8l37tl0mUn4JRYfYbJGDCu.jpg" group-title="SERIES-DRAMA",Outlander S02 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/fO477A4ypGd7nBdM4vu6mdHJFcq.jpg" group-title="SERIES-DRAMA",Outlander S02 E13
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gy2GCnPzRtwaY8kLexz2Cs9dDtb.jpg" group-title="SERIES-DRAMA",Outlander S03 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/cIRaa1kWYcfrN8YdpyzPU0ZH1qB.jpg" group-title="SERIES-DRAMA",Outlander S03 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/4HIkWIYDc1aER82VHZ5VKzOQfGI.jpg" group-title="SERIES-DRAMA",Outlander S03 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/fJfemtCmU9mKnOp4q1MXLF27wae.jpg" group-title="SERIES-DRAMA",Outlander S03 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/xSXvQ81pezBCJLWoTJatmsc1dgC.jpg" group-title="SERIES-DRAMA",Outlander S03 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/dVG5wWpBjlyX0oGgH75M8BqPeZz.jpg" group-title="SERIES-DRAMA",Outlander S03 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/sHKN6cu6BC8B0pnHBhfdoxQumc7.jpg" group-title="SERIES-DRAMA",Outlander S03 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/g5fUjyNdUPjxU66dsJYPsjpZu4O.jpg" group-title="SERIES-DRAMA",Outlander S03 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/iaLsEPlOlmBCiydOiGXhmadohAK.jpg" group-title="SERIES-DRAMA",Outlander S03 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/31bT6SULfpbbrZUfWVdnE9O0JMl.jpg" group-title="SERIES-DRAMA",Outlander S03 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E11" tvg-logo="https://image.tmdb.org/t/p/w300/nDgTvOIYWy7j3Jd7xzG4G2SnHrH.jpg" group-title="SERIES-DRAMA",Outlander S03 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E12" tvg-logo="https://image.tmdb.org/t/p/w300/eEgMcPLBs1WmgYiWZS8Zdn9Kbqz.jpg" group-title="SERIES-DRAMA",Outlander S03 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S03 E13" tvg-logo="https://image.tmdb.org/t/p/w300/9mGC4YAiesBM0DRnl8hieGQpinm.jpg" group-title="SERIES-DRAMA",Outlander S03 E13
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/fa9Ls633phl4NQzw3JyAuwdYgPV.jpg" group-title="SERIES-DRAMA",Outlander S04 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/xEvNET4oq4XWekOPsUyxhIBTYAr.jpg" group-title="SERIES-DRAMA",Outlander S04 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5ab0ChUELLRWpWySt9zWT9cewLf.jpg" group-title="SERIES-DRAMA",Outlander S04 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zK8LRuiaKM3i6TYEHFKCvXKWIUo.jpg" group-title="SERIES-DRAMA",Outlander S04 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ksWDLbYl3tusQwzJYcdN0W9Lo3Z.jpg" group-title="SERIES-DRAMA",Outlander S04 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/wWXDPgL8ECupmpvSSxYVbb68v8u.jpg" group-title="SERIES-DRAMA",Outlander S04 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/oMKLj6QZ8bPaUlYNKLxxquJm9LB.jpg" group-title="SERIES-DRAMA",Outlander S04 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E08" tvg-logo="https://image.tmdb.org/t/p/w300/aEdUfxjUyOSZ2jqMXEfU1dcNjnu.jpg" group-title="SERIES-DRAMA",Outlander S04 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/ywOrPyHAw96KWqI9K96G9Sxm8L9.jpg" group-title="SERIES-DRAMA",Outlander S04 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/3FhgBMhIzQZZbTfOIld60VHep91.jpg" group-title="SERIES-DRAMA",Outlander S04 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E11" tvg-logo="https://image.tmdb.org/t/p/w300/n9WeVgfxQX14UQWIlOGhqDHdinf.jpg" group-title="SERIES-DRAMA",Outlander S04 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E12" tvg-logo="https://image.tmdb.org/t/p/w300/zng911Zl1olC2MIXEjI5FBBtFZO.jpg" group-title="SERIES-DRAMA",Outlander S04 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S04 E13" tvg-logo="https://image.tmdb.org/t/p/w300/8br6F9OIx0yMw2AQqqCJV7ts041.jpg" group-title="SERIES-DRAMA",Outlander S04 E13
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E01" tvg-logo="https://image.tmdb.org/t/p/w300/piWI87vyNn4FtWYzsIL5Ee2OE7r.jpg" group-title="SERIES-DRAMA",Outlander S05 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E02" tvg-logo="https://image.tmdb.org/t/p/w300/7eFGWDnz37R1LsEaugBjaIJet92.jpg" group-title="SERIES-DRAMA",Outlander S05 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E03" tvg-logo="https://image.tmdb.org/t/p/w300/vCOrQBNhAyglVvt0gn6o5ucXaF6.jpg" group-title="SERIES-DRAMA",Outlander S05 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2HJ42ZHwwLnGuzu5cbGcO6r2Djp.jpg" group-title="SERIES-DRAMA",Outlander S05 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2HQ0TAbEUDnmvEnZhwbNA31PPq1.jpg" group-title="SERIES-DRAMA",Outlander S05 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pu9L46uZmRur6OYNcinNEbnTap9.jpg" group-title="SERIES-DRAMA",Outlander S05 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E07" tvg-logo="https://image.tmdb.org/t/p/w300/pxoZNJFC2PXwKWqrPsu3v0WXA50.jpg" group-title="SERIES-DRAMA",Outlander S05 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E08" tvg-logo="https://image.tmdb.org/t/p/w300/9nZ9HMi4Ne2woE26oZThcdiIbry.jpg" group-title="SERIES-DRAMA",Outlander S05 E08
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E09" tvg-logo="https://image.tmdb.org/t/p/w300/jUPVySsNbkICGv2reFrkhCrC8QX.jpg" group-title="SERIES-DRAMA",Outlander S05 E09
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E10" tvg-logo="https://image.tmdb.org/t/p/w300/9R4nGUc6204kV6usjwizmCKXiNb.jpg" group-title="SERIES-DRAMA",Outlander S05 E10
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E11" tvg-logo="https://image.tmdb.org/t/p/w300/tndQbuzYmrQFw1uzzljm9yrMWLf.jpg" group-title="SERIES-DRAMA",Outlander S05 E11
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander S05 E12" tvg-logo="https://image.tmdb.org/t/p/w300/7ULdkrouk4GlkeMKnBEJJmNsWyC.jpg" group-title="SERIES-DRAMA",Outlander S05 E12
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/221458.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Peripheral S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3caaU3kULSkYpnU88rVkzZJ1liG.jpg" group-title="SERIES-ESTRENOS",The Peripheral S01 E01
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/224089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Peripheral S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qv39hOUjeV3cZK7QV3rwJtwPHRj.jpg" group-title="SERIES-ESTRENOS",The Peripheral S01 E02
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/224090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Peripheral S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/AlJOv5HT77TVJ3XfP4yUZkFqy6v.jpg" group-title="SERIES-ESTRENOS",The Peripheral S01 E03
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/224091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Peripheral S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wdQeBYdEWtsjOqrYlTazIGkcAdU.jpg" group-title="SERIES-ESTRENOS",The Peripheral S01 E04
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/224092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Peripheral S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/vFFi2g3hPPCEJs1W3xGFHCvlKQH.jpg" group-title="SERIES-ESTRENOS",The Peripheral S01 E05
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/224093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Peripheral S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/8n5RRQVN2aleqC7qdE4lqZZVVdo.jpg" group-title="SERIES-ESTRENOS",The Peripheral S01 E06
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/224094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Peripheral S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/aO48aF3IfOd2VTNuEo8v0TC2pgY.jpg" group-title="SERIES-ESTRENOS",The Peripheral S01 E07
+http://tv.kis2.xyz:43201/series/Hectornew/KNeCF7tk2t/224095.mkv
