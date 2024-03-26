@@ -35,55 +35,57 @@ Propiedad de Bolbrasor
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 2
-http://pfsv.io:80/7125938483/5158/582
+http://pfsv.io:80/45125970/43446296/30201.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkKsind.png" group-title="BRASIL",Tv Globo 3
 http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/212345
 
 #################### SaBaTa ##########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 1
-http://splaytv.io:80/Marcelo984258235/hbgy45df/169533
+orhttp://pfsv.io:80/45125970/43446296/30179.ts
 or
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMsfAso.png" group-title="BRASIL",SBT 2
-http://pfsv.io:80/7125938483/5158/30179
+http://190.102.43.113:80/Formigatv/offilinetv2301/8763.ts
 
 #################### RaCaRD #########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 1
-http://pfsv.io:80/7125938483/5158/583
+http://pfsv.io:80/45125970/43446296/120716.ts
 or
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/576jLH4.png" group-title="BRASIL",Record TV 2
+http://190.102.43.113:80/Formigatv/offilinetv2301/9066.ts
+or
 http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/212349
 
 #################### BoNDo #########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWkwg41.png" group-title="BRASIL",BAND 1
-http://pfsv.io:80/7125938483/5158/123583
+http://pfsv.io:80/45125970/43446296/113588.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWkwg41.png" group-title="BRASIL",BAND 2
-http://splaytv.io:80/Marcelo984258235/hbgy45df/83435
+http://190.102.43.113:80/Formigatv/offilinetv2301/9063.ts
 
 #################### Rada TV #######################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSMe3rM.png" group-title="BRASIL",Rede TV 1
-http://pfsv.io:80/7125938483/5158/48
+http://pfsv.io:80/45125970/43446296/30180.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSMe3rM.png" group-title="BRASIL",Rede TV 2
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
 #################### Muxtus ########################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KlabBuZ.png" group-title="BRASIL",GNT
-http://pfsv.io:80/7125938483/5158/130260
+http://pfsv.io:80/45125970/43446296/30187.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KlabBuZ.png" group-title="BRASIL",GNT 2
-http://splaytv.io:80/Marcelo984258235/hbgy45df/139111
+http://190.102.43.113:80/Formigatv/offilinetv2301/9078.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFlHLkw.png" group-title="BRASIL",Sabor y arte
-http://pfsv.io:80/7125938483/5158/127312
+http://pfsv.io:80/45125970/43446296/127312.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IFlHLkw.png" group-title="BRASIL",Sabor y arte 2
-http://splaytv.io:80/Marcelo984258235/hbgy45df/169527
+http://splaytv.io:80/xUuW52/NjyQFM/169527
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LpJNDdQ.png" group-title="BRASIL",El gourmet 1
 http://181.78.8.90:16123/play/ch27
